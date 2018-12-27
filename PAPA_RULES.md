@@ -66,244 +66,231 @@ IX. Miscellaneous
 
 ## I. Quick Overview
 
-PAPA tournament rules are quite lengthy and detailed. They reflect the experience of many years of tournament
-and league play, under many different systems. The principles are simple, however.
-In Divisions A, B, and C, qualifying scores will be drawn from a player’s best attempts on six of the twelve available
-machines. Each individual attempt on a machine will be weighted against all other attempts on that same machine
-and ranked on a scale of 0-100 points. This ranking system allows individual game scores from different eras of
-pinball to be compared directly with one another. Players are permitted as many attempts as they wish on each of
-the twelve machines within a division, but only their best attempt on six different machines will count toward their
-overall qualifying score.
-In the three classics divisions, competitors will be scored on their best four out of sixteen machines. In all other
-divisions, competitors will be scored on their best four of the eight machines available. Qualifying attempts for
-Divisions A, B, C and D may be made any time the facility is open between Thursday morning and closing time on
-Saturday.
-In the final rounds, qualifying players play against each other in multiplayer games. A point system is used to
-determine who advances to the next round and, ultimately, who wins the division.
+PAPA tournament rules are quite lengthy and detailed. They reflect the experience of many years of tournament and league play, under many different systems. The principles are simple, however.
+
+In Divisions A, B, and C, qualifying scores will be drawn from a player’s best attempts on six of the twelve available machines. Each individual attempt on a machine will be weighted against all other attempts on that same machine and ranked on a scale of 0-100 points. This ranking system allows individual game scores from different eras of pinball to be compared directly with one another. Players are permitted as many attempts as they wish on each of the twelve machines within a division, but only their best attempt on six different machines will count toward theiroverall qualifying score.
+
+In the three classics divisions, competitors will be scored on their best four out of sixteen machines. In all other divisions, competitors will be scored on their best four of the eight machines available. Qualifying attempts for Divisions A, B, C and D may be made any time the facility is open between Thursday morning and closing time on Saturday.
+
+In the final rounds, qualifying players play against each other in multiplayer games. A point system is used to determine who advances to the next round and, ultimately, who wins the division.
 
 
 ## II. Singles Competition
 
 ### 1. Divisions of Play
+**Division D** – Division D at the PAPA World Championships is designed for beginners and novice players. This Division is intended to offer experience to players who are new to competitive pinball. If you are unsure of how PAPA’s tournament process works or do not feel comfortable competing in Divisions A, B, or C, we encourage you to play in Division D. Please note that Division D is heavily restricted to only allow newer competitive players.
 
-● **Division D​** – Division D at the PAPA World Championships is designed for beginners and novice players.
-This Division is intended to offer experience to players who are new to competitive pinball. If you are
-unsure of how PAPA’s tournament process works or do not feel comfortable competing in Divisions A, B, or
-C, we encourage you to play in Division D. Please note that Division D is heavily restricted to only allow
-newer competitive players.
-● **Division C​** – Division C at the PAPA World Championships is designed for players with below average
-league or tournament experience, or anyone who does not feel confidant competing in Divisions A or B.
-Please note that some restrictions will be applied to help determine who can and cannot enter Division C.
-● **Division B​** – While Division B is frequently labeled as an intermediate division, this designation is relative to
-the rest of the PAPA World Championships. The level of skill exhibited in this division is higher than the
-main divisions of the vast majority of tournaments throughout the world. Players with higher than average
-league or tournament experience who are not yet capable of competing in the main division at the PAPA
-World Championships play in Division B. Please note that some restrictions will be applied to help
-determine who can and cannot enter Division B.
-● **Division A​** – The main division of the PAPA World Pinball Championships is the most renowned event in all
-of competitive pinball, annually deciding the title of PAPA World Pinball Champion. All players of any skill
-level are welcome to compete in Division A and challenge for the title!
-● **Classics Division​** – PAPA offers three separate Classics events at the World Pinball Championships,
-featuring machines created prior to 1990. The Classics divisions function as their own self-contained daily
-tournaments and do not prohibit any player from also competing in any other division.
-● **Juniors Division​** – Only players 15 years old or younger are permitted to play in Juniors. This division offers
-medals to the winners and is intended to encourage younger players by providing them experience in the
-PAPA tournament setting. In order to ensure each player has a chance to experience the pressure of a final
-rounds format, all Juniors players will be entered into the final rounds.
-● **Seniors Division​** – Only players 50 years of age or older are permitted to compete in the Seniors division.
-● **Womens Division​** – Only women will be permitted to compete in the womens division.
-● **Split-Flipper​** – The Split Flipper Division gives competitors the chance to play with a partner. Each player is
-permitted to control the buttons on one side of the machine cabinet, and they may only do so with a single,
-designated hand once the ball has been plunged. Players may only switch sides, or hands, between balls,
-although they are permitted to nudge at all times with their non-designated hand.
-Note that the Juniors, Seniors, Womens, and Division D will share the same bank of machines during qualifying and
-final rounds.
+**Division C** – Division C at the PAPA World Championships is designed for players with below average league or tournament experience, or anyone who does not feel confidant competing in Divisions A or B. Please note that some restrictions will be applied to help determine who can and cannot enter Division C.
 
+**Division B** – While Division B is frequently labeled as an intermediate division, this designation is relative to the rest of the PAPA World Championships. The level of skill exhibited in this division is higher than the main divisions of the vast majority of tournaments throughout the world. Players with higher than average league or tournament experience who are not yet capable of competing in the main division at the PAPA World Championships play in Division B. Please note that some restrictions will be applied to help determine who can and cannot enter Division B.
+
+**Division A** – The main division of the PAPA World Pinball Championships is the most renowned event in all of competitive pinball, annually deciding the title of PAPA World Pinball Champion. All players of any skill level are welcome to compete in Division A and challenge for the title!
+
+**Classics Division** – PAPA offers three separate Classics events at the World Pinball Championships, featuring machines created prior to 1990. The Classics divisions function as their own self-contained daily tournaments and do not prohibit any player from also competing in any other division.
+
+**Juniors Division** – Only players 15 years old or younger are permitted to play in Juniors. This division offers medals to the winners and is intended to encourage younger players by providing them experience in the PAPA tournament setting. In order to ensure each player has a chance to experience the pressure of a final rounds format, all Juniors players will be entered into the final rounds.
+
+**Seniors Division** – Only players 50 years of age or older are permitted to compete in the Seniors division.
+
+**Womens Division** – Only women will be permitted to compete in the womens division.
+
+**Split-Flipper** – The Split Flipper Division gives competitors the chance to play with a partner. Each player is permitted to control the buttons on one side of the machine cabinet, and they may only do so with a single, designated hand once the ball has been plunged. Players may only switch sides, or hands, between balls, although they are permitted to nudge at all times with their non-designated hand.
+
+Note that the Juniors, Seniors, Womens, and Division D will share the same bank of machines during qualifying and final rounds.
 
 ### 2. Skill Division Restrictions
 
-Divisions A, B, C, & D are considered major divisions. Competitors may only play in one major division at a time. A
-player may choose to move to a higher major division, with Division A being the highest and Division D being the
-lowest, automatically voiding all tickets in lower divisions (no refunds are provided), but no player may move to a
-lower division without special permission from tournament directors. Players are not permitted to change divisions
-after noon on Saturday.
-The following restrictions are designed to discourage any player from intentionally competing beneath his or her
-level of skill:
-● Any player who has placed in the top four of Division B or C at the finals of any previous PAPA tournament
-must enter the next higher division in their next PAPA tournament. If they fail to qualify in the higher
-division, they may return to the original lower division in the following year.
-● Any player who has qualified in the Division A or B of any previous PAPA tournament may not enter a lower
-division in subsequent tournaments except at the discretion of tournament officials.
-● At the discretion of the tournament officials, any player may be required to move to a higher division based
-on his or her performance or past league or tournament standings.
-● Any player who plays in more than one major division will not be allowed to void their first ticket in the
-higher division. Non-voided tickets are used by the automated scoring system to establish which division is
-valid for each player.
-● Players ranked between 1 and 199 in the World Pinball Player Rankings are restricted to Division A.
-● Players ranked between  200  and  599  in the World Pinball Player Rankings are restricted to Division B or
-higher.
-● Players ranked between  600  and  7499  in the World Pinball Player Rankings are restricted to Division C or
-higher.
-● Only unranked players, or players ranked higher than  7500  in the World Pinball Player Rankings are
-permitted to compete in Division D.
-● No player may move to a higher division after noon on Saturday, in order to prevent sudden shifts in
-standings late in the qualifying process.
+Divisions A, B, C, & D are considered major divisions. Competitors may only play in one major division at a time. A player may choose to move to a higher major division, with Division A being the highest and Division D being the lowest, automatically voiding all tickets in lower divisions (no refunds are provided), but no player may move to a lower division without special permission from tournament directors. Players are not permitted to change divisions after noon on Saturday.
 
+The following restrictions are designed to discourage any player from intentionally competing beneath his or her level of skill:
+-  Any player who has placed in the top four of Division B or C at the finals of any previous PAPA tournament must enter the next higher division in their next PAPA tournament. If they fail to qualify in the higher division, they may return to the original lower division in the following year.
+-  Any player who has qualified in the Division A or B of any previous PAPA tournament may not enter a lower division in subsequent tournaments except at the discretion of tournament officials.
+-  At the discretion of the tournament officials, any player may be required to move to a higher division based on his or her performance or past league or tournament standings.
+-  Any player who plays in more than one major division will not be allowed to void their first ticket in the higher division. Non-voided tickets are used by the automated scoring system to establish which division is valid for each player.
+-  Players ranked between 1 and 199 in the World Pinball Player Rankings are restricted to Division A.
+-  Players ranked between  200  and  599  in the World Pinball Player Rankings are restricted to Division B or higher.
+-  Players ranked between  600  and  7499  in the World Pinball Player Rankings are restricted to Division C or higher.
+-  Only unranked players, or players ranked higher than  7500  in the World Pinball Player Rankings are permitted to compete in Division D.
+-  No player may move to a higher division after noon on Saturday, in order to prevent sudden shifts in standings late in the qualifying process.
 
 ### 3. Fees
 
-Registration is not required to play mini-tournaments, to play non-tournament machines, or to simply watch. Each
-registered player receives an identifying number and this number is used to track his or her subsequent play.
-Registration also does not include tickets in any division; each ticket is sold for an additional fee. Players may enter
-in their chosen division(s) as many times as they like. Each day of qualifying will have a published cut-off time,
-beyond which no new ticket may be played.
+Registration is not required to play mini-tournaments, to play non-tournament machines, or to simply watch. Each registered player receives an identifying number and this number is used to track his or her subsequent play. Registration also does not include tickets in any division; each ticket is sold for an additional fee. Players may enter in their chosen division(s) as many times as they like. Each day of qualifying will have a published cut-off time, beyond which no new ticket may be played.
+
 The fees for tickets in each division are:
+
 **Types of Passes Price Division Price**
+
 General Attendee $20 Division A $5 per ticket, or 3 tickets for $
+
 Weekend Pass (All 5 Days) $75 Division B $4 per ticket, or 3 tickets for $
+
 Evening Pass (After 7pm) $15 Division C $3 per ticket, or 3 tickets for $
+
 Kids Pass (6-16) $15 Division D $1 per ticket
+
 Kids Under 5 Free! Classics $4 per ticket, or 3 tickets for $
+
 Other Divisions $2 per ticket, or 3 tickets for $
+
 No tickets will be refunded at any time, so please plan your timing accordingly with the posted schedule.
 
 
 ### 4. Prizes
 
-The tournament features a guaranteed package of prizes. In the event of an overrun beyond expenses, excess
-revenue will fund the operations of the non-profit Replay Foundation.
+The tournament features a guaranteed package of prizes. In the event of an overrun beyond expenses, excess revenue will fund the operations of the non-profit Replay Foundation.
+
 **Division A Division B**
+
 1st Place 7000 + Trophy 1st Place 2000 + Trophy
+
 2nd Place 2000 + Medal 2nd Place 1000 + Medal
+
 3rd Place 1200 + Medal 3rd Place 600 + Medal
+
 4th Place 800 + Medal 4th Place 400 + Medal
+
 5th-8th Place 400  5th-8th Place 200 
+
 9th-16th Place 250 9th-16th Place 125 
+
 17th-24th Place 200  17th-24th Place 100 
+
 **Division C Division D**
+
 1st Place 1000 + Trophy Cup 1st Place 150 + Trophy Cup
+
 2nd Place 500 + Medal 2nd Place 125 + Medal
+
 3rd Place 300 + Medal 3rd Place 100 + Medal
+
 4th Place 200 + Medal 4th Place 75 + Medal
+
 5th-8th Place 100  5th-8th Place 50 
+
 9th-16th Place 75  9th-16th Place 25 
+
 17th-24th Place 50  17th-24th Place 25 
+
 **Classics I, II, & III All Other Divisions**
+
 1st Place 1000 + Trophy Cup 1st Place Medal
+
 2nd Place 500 + Medal 2nd Place Medal
+
 3rd Place 300 + Medal 3rd Place Medal
+
 4th Place 200 + Medal 4th Place Medal
+
 5th-8th Place 100 
+
 9th-16th Place 75 
+
 17th-24th Place 50 
+
 **Total prize package $37,000+**
-The winner of the A Division will also receive the title ​ **_“World Pinball Champion”​_**. This title remains in effect until the
-next annual PAPA tournament, or will expire after two years if PAPA tournaments are discontinued.
+
+The winner of the A Division will also receive the title ​ **“World Pinball Champion”**. This title remains in effect until the next annual PAPA tournament, or will expire after two years if PAPA tournaments are discontinued.
+
 
 
 ## III. Singles: Qualifying Rounds
 
 ### 1. Purchasing Tickets
 
-Before purchasing any tickets, players must be registered. A registered player may purchase qualifying round
-tickets in one or more appropriate divisions (at most one skill division, plus special divisions if eligible). Each
-purchased ticket is specific to one division. Players should keep their registered player number handy for use when
-purchasing tickets.
-Tickets will not be sold for any division beyond the posted time, nor will tickets be sold for the Classics Division
-except when it is operating. Tickets are non-refundable unless by special permission or as described herein.
+Before purchasing any tickets, players must be registered. A registered player may purchase qualifying round tickets in one or more appropriate divisions (at most one skill division, plus special divisions if eligible). Each purchased ticket is specific to one division. Players should keep their registered player number handy for use when purchasing tickets.
+
+Tickets will not be sold for any division beyond the posted time, nor will tickets be sold for the Classics Division except when it is operating. Tickets are non-refundable unless by special permission or as described herein.
 
 ### 2. Playing a Ticket
 
-When a competitor is ready to play a qualifying round ticket, he or she approaches the bank of machines
-designated for the division corresponding to the ticket. The player will select the appropriate machine to be played
-for the qualifying ticket. The exact number of machines in each bank may vary from division to division and from
-tournament to tournament. A typical example might be a bank of twelve machines, from which six count toward the
-overall qualifying score.
-Only the highest score achieved by the player on each machine, no matter how many times that player has played
-that specific machine, will count toward that players score. The player will line up behind the machine he or she
-wants to play. When it is the player’s turn, he or she will signal for a scorekeeper who will take down the player’s
-number. At no time may the player begin play on any machine without being instructed to do so by the scorekeeper.
-Players may select a different machine for each qualifying ticket.
-After playing each game, the player will request that the scorekeeper record his or her score before leaving the
-machine. It is the player’s responsibility to ensure that the scorekeeper takes down the score, and to verify the
-score for correctness prior to submission. If a player’s score is recorded incorrectly and the result is beneficial to
-the player, tournament directors reserve the right to correct the mistake. In all other qualifying situations, the
-recorded score will stand.
-When each ticket has been completed, the player must verify the score with the scorekeeper prior to its
-submission.
-At any point during play or immediately after play has been completed, the player may elect to abandon his or her
-ticket by notifying the scorekeeper that the ticket in question should be voided. This will void the score for that
-specific ticket, and the ticket will not be entered into the scoring system except as a “void”, which does not affect
-scoring in any way. No money will be refunded for a voided ticket.
-Players who begin a ticket must remain present to complete the ticket or risk it being voided by a scorekeeper or
-tournament director.
+When a competitor is ready to play a qualifying round ticket, he or she approaches the bank of machines designated for the division corresponding to the ticket. The player will select the appropriate machine to be played for the qualifying ticket. The exact number of machines in each bank may vary from division to division and from tournament to tournament. A typical example might be a bank of twelve machines, from which six count toward the overall qualifying score.
+
+Only the highest score achieved by the player on each machine, no matter how many times that player has played that specific machine, will count toward that players score. The player will line up behind the machine he or she wants to play. When it is the player’s turn, he or she will signal for a scorekeeper who will take down the player’s number. At no time may the player begin play on any machine without being instructed to do so by the scorekeeper.  Players may select a different machine for each qualifying ticket.
+
+After playing each game, the player will request that the scorekeeper record his or her score before leaving the machine. It is the player’s responsibility to ensure that the scorekeeper takes down the score, and to verify the score for correctness prior to submission. If a player’s score is recorded incorrectly and the result is beneficial to the player, tournament directors reserve the right to correct the mistake. In all other qualifying situations, the recorded score will stand.
+
+When each ticket has been completed, the player must verify the score with the scorekeeper prior to its submission.
+
+At any point during play or immediately after play has been completed, the player may elect to abandon his or her ticket by notifying the scorekeeper that the ticket in question should be voided. This will void the score for that specific ticket, and the ticket will not be entered into the scoring system except as a “void”, which does not affect scoring in any way. No money will be refunded for a voided ticket.  Players who begin a ticket must remain present to complete the ticket or risk it being voided by a scorekeeper or tournament director.
 
 
 ### 3. Scoring
 
-Scores posted on a particular machine are maintained in a ranking. Point values are assigned to each position in
-this ranking. The overall qualifying score of a competitor is the total of the point values assigned to his or her
-highest scores on the machines that have been played. Because the rankings will change as new scores are posted
-on each machine, the overall qualifying score of a competitor may change as the qualifying rounds progress.
-It is important to note that only a subset of games in each division count toward a competitor’s overall qualifying
-score. For instance, in Divisions A, B, & C, a total of twelve games will be available for competitors to play, but only a
-competitor’s highest scores on six separate machines will count toward their qualifying total. Competitors retain
-the option of playing all twelve machines during the qualifying period, but it is not necessary in order to advance to
-the final rounds.
-In the event of two or more scores on a machine being exactly tied, the highest point value of the tied positions will
-be awarded for each such score.
-There are no scoring normalizers or other adjustments. Scores cannot be compared across divisions. As the
-qualifying rounds progress, players may wish to adjust their choice of qualifying machines according to the scores
-already posted, as well as their personal skills and preferences.
+Scores posted on a particular machine are maintained in a ranking. Point values are assigned to each position in this ranking. The overall qualifying score of a competitor is the total of the point values assigned to his or her highest scores on the machines that have been played. Because the rankings will change as new scores are posted on each machine, the overall qualifying score of a competitor may change as the qualifying rounds progress.
+
+It is important to note that only a subset of games in each division count toward a competitor’s overall qualifying score. For instance, in Divisions A, B, & C, a total of twelve games will be available for competitors to play, but only a competitor’s highest scores on six separate machines will count toward their qualifying total. Competitors retain the option of playing all twelve machines during the qualifying period, but it is not necessary in order to advance to the final rounds.
+
+In the event of two or more scores on a machine being exactly tied, the highest point value of the tied positions will be awarded for each such score.
+
+There are no scoring normalizers or other adjustments. Scores cannot be compared across divisions. As the qualifying rounds progress, players may wish to adjust their choice of qualifying machines according to the scores already posted, as well as their personal skills and preferences.
+
 The rank of the player’s result on each machine contributes the following points to the score for that ticket.
+
 **Rank Score**
+
 1st 100 points
+
 2nd 90 
+
 3rd 85 
+
 4th down to 87th 84 down to 1
-Tournament officials will provide up-to-date scores and rankings at all times, using a projected screen or
-television-type display. The up-to-date scores and rankings are also available on the web site at all times.
+
+Tournament officials will provide up-to-date scores and rankings at all times, using a projected screen or television-type display. The up-to-date scores and rankings are also available on the web site at all times.
 
 
 ### 4. Scoring Example
 
-**Example:​** The games available in qualifying were:
+**Example:** The games available in qualifying were:
 
 1. Supersonic
+
 2. Space Invaders
+
 3. World Cup Soccer
+
 4. The Shadow
+
 5. Jackbot
+
 6. World Poker Tour
+
 7. Rolling Stones
+
 8. Attack From Mars
+
 9. Centaur
+
 10.Metallica
+
 11.Wizard of Oz
+
 12.Addams Family
+
 Elizabeth played several games multiple times and others zero times. Any scores lower than those listed below did
 not count toward Elizabeth’s final qualifying ranking.
-● Elizabeth’s highest score on Supersonic was third overall, scoring her 85 qualifying points.
-● Elizabeth’s highest score on Space Invaders was 18th, scoring her 70 points (155 total through two
+-  Elizabeth’s highest score on Supersonic was third overall, scoring her 85 qualifying points.
+-  Elizabeth’s highest score on Space Invaders was 18th, scoring her 70 points (155 total through two
 games).
-● Elizabeth’s highest score on World Cup Soccer was 15th, earning her 73 points (228 through three games).
-● Elizabeth’s highest score on The Shadow was the 1st, earning her 100 points (328 through four games).
-● Elizabeth’s highest score on Jackbot was 5th, earning her 83 additional qualifying points (411 through five
+-  Elizabeth’s highest score on World Cup Soccer was 15th, earning her 73 points (228 through three games).
+-  Elizabeth’s highest score on The Shadow was the 1st, earning her 100 points (328 through four games).
+-  Elizabeth’s highest score on Jackbot was 5th, earning her 83 additional qualifying points (411 through five
 games).
-● Elizabeth’s highest score on World Poker Tour was 6th, earning her 82 qualifying points (493 through six
+-  Elizabeth’s highest score on World Poker Tour was 6th, earning her 82 qualifying points (493 through six
 games).
-● Elizabeth’s highest score on Rolling Stones was 22nd, earning her 66 additional qualifying points (This
+-  Elizabeth’s highest score on Rolling Stones was 22nd, earning her 66 additional qualifying points (This
 ticket was not high enough to be included in Elizabeth’s top six overall scores, and so it does not count
 toward her qualifying total).
-● Elizabeth’s highest score on Attack From Mars was 150th, earning her 0 additional qualifying points (This
+-  Elizabeth’s highest score on Attack From Mars was 150th, earning her 0 additional qualifying points (This
 ticket was not high enough to be included in Elizabeth’s top six overall scores, and so it does not count
 toward her qualifying total).
-● Elizabeth’s highest score on Centaur was 22nd, earning her 66 additional qualifying points (This ticket was
+-  Elizabeth’s highest score on Centaur was 22nd, earning her 66 additional qualifying points (This ticket was
 not high enough to be included in Elizabeth’s top six overall scores, and so it does not count toward her
 qualifying total).
-● Elizabeth chose not to play Metallica
-● Elizabeth chose not to play Wizard of Oz
-● Elizabeth chose not to play Addams Family
+-  Elizabeth chose not to play Metallica
+-  Elizabeth chose not to play Wizard of Oz
+-  Elizabeth chose not to play Addams Family
 In the above example, Elizabeth’s qualifying total will be  493  points, which is the sum of her highest six individual
 machine scores out of the twelve available machines. It is important to note the total number of points needed to
 qualify will change from year to year depending on how players perform on the games and rank against one
@@ -314,178 +301,134 @@ another. In this example, the highest possible qualifying score would be first p
 
 ### 1. Advancing to Finals
 
-When qualifying rounds have been completed, a final calculation of scores will be made. Those scores will be
-ranked, and the top unique players in each division will advance to the final rounds. No player may qualify in more
-than one skill division.
-The determination of final qualifying standings will be made by tournament officials at the end of qualifying on
-Saturday night, and shall not be changed for any reason, including player error or tournament error.
-The number of qualifying slots which will advance to the final rounds is partly dependent upon the number of
-players competing. At a minimum, each division will take the top eight qualifiers to the final rounds. This may
-expand to nine, twelve, sixteen, or other numbers as determined by tournament officials. The final decision on
-expanding the number of qualifiers in each division will be made no later than 11pm on the Friday night of the
-tournament. In the event that any chosen number of qualifiers does not match the groupings described in these
-rules (for 6, 8, 9, 12, 16, or  24  players), the groupings will be posted at the time of the decision. Based on attendance
-in recent years, standard practice has been to include 24 competitors in the final rounds.
-Finals in each division will consist of a semifinal round and a final round, unless twelve or more qualifiers are
-playing, in which case additional rounds may be employed.
-In the event a qualifying player is not available, he or she will be skipped in the ranking as if he or she had not
-qualified. Upon discovering at any point (before finals play or during finals play) that a player is not present,
-tournament officials will make a specific announcement for that player, allowing at least ten minutes for that player
-to appear. Substitutions or late arrivals are not allowed.
-No player shall be allowed to play in the finals of more than one division simultaneously. Any player who qualifies in
-two divisions with a scheduling conflict must select only one finals round in which to compete.
+When qualifying rounds have been completed, a final calculation of scores will be made. Those scores will be ranked, and the top unique players in each division will advance to the final rounds. No player may qualify in more than one skill division.
+
+The determination of final qualifying standings will be made by tournament officials at the end of qualifying on Saturday night, and shall not be changed for any reason, including player error or tournament error.  The number of qualifying slots which will advance to the final rounds is partly dependent upon the number of players competing. At a minimum, each division will take the top eight qualifiers to the final rounds. This may expand to nine, twelve, sixteen, or other numbers as determined by tournament officials. The final decision on expanding the number of qualifiers in each division will be made no later than 11pm on the Friday night of the tournament. In the event that any chosen number of qualifiers does not match the groupings described in these rules (for 6, 8, 9, 12, 16, or  24  players), the groupings will be posted at the time of the decision. Based on attendance in recent years, standard practice has been to include 24 competitors in the final rounds.
+
+Finals in each division will consist of a semifinal round and a final round, unless twelve or more qualifiers are playing, in which case additional rounds may be employed.
+
+In the event a qualifying player is not available, he or she will be skipped in the ranking as if he or she had not qualified. Upon discovering at any point (before finals play or during finals play) that a player is not present, tournament officials will make a specific announcement for that player, allowing at least ten minutes for that player to appear. Substitutions or late arrivals are not allowed.
+
+No player shall be allowed to play in the finals of more than one division simultaneously. Any player who qualifies in two divisions with a scheduling conflict must select only one finals round in which to compete.
 
 ### 2. Qualifying Tiebreak Procedure
 
-In the event that two or more players are tied on the qualifying bubble, such that not all of the tied players can
-advance to the final rounds, or a meaningful tiebreaker needs to be played, such as to determine a bye, a
-tiebreaking procedure will be utilized. A single game will be played on a machine selected by tournament officials
-from the qualifying bank of the division. The tied players will play, in randomly determined order, in a multiplayer
-game on the selected machine, and will subsequently be ranked in the order of their scores on that game. If more
-players are tied than the selected machine will support in a single game, multiple games will be played to
-accommodate all tied players, in randomly determined order, and the resulting scores will be compared as if they
-had occurred in a single game on the same machine.
-Player groups in a tiebreaker will be arranged breadth-first so that each group is of similar, but descending, size. For
-example, five players will be arranged as a group of three and a group of two, rather than a group of four and a solo
-player. Nine players would be arranged as three groups of three.
-In the event that two or more players are tied but are not on the qualifying bubble, a random tiebreak procedure will
-be implemented to assign players to groups. Under no circumstances will players be given a choice of groups at
-any time.
+In the event that two or more players are tied on the qualifying bubble, such that not all of the tied players can advance to the final rounds, or a meaningful tiebreaker needs to be played, such as to determine a bye, a tiebreaking procedure will be utilized. A single game will be played on a machine selected by tournament officials from the qualifying bank of the division. The tied players will play, in randomly determined order, in a multiplayer game on the selected machine, and will subsequently be ranked in the order of their scores on that game. If more players are tied than the selected machine will support in a single game, multiple games will be played to accommodate all tied players, in randomly determined order, and the resulting scores will be compared as if they had occurred in a single game on the same machine.
+
+Player groups in a tiebreaker will be arranged breadth-first so that each group is of similar, but descending, size. For example, five players will be arranged as a group of three and a group of two, rather than a group of four and a solo player. Nine players would be arranged as three groups of three.
+
+In the event that two or more players are tied but are not on the qualifying bubble, a random tiebreak procedure will be implemented to assign players to groups. Under no circumstances will players be given a choice of groups at any time.
 
 
 ### 3. Final Round Machines & Warmup
 
-The machines used for final rounds in each division will be designated before the beginning of the final rounds of
-play. This designation will be determined solely by tournament officials, and may include in each division machines
-that were not utilized in the qualifying rounds for that division, as well as machines not previously utilized in the
-tournament at all. There will be at least four machines available in each division, and quite likely more.
-All games played in the final rounds are treated as three-player or four-player. In the event a machine being utilized
-does not support enough simultaneous players, multiple games will be played on the same machine, with playing
-order preference going by original seeding as usual, and the resulting scores will be compared as if a single
-multiplayer game had been played.
-Before the final rounds begin, a 30-minute warmup period will be provided. This allows players to obtain a feel for
-certain machine features such as kickouts. Any player who notices problems with a machine at this time must
-notify tournament officials. This warm-up period will only be made available in Divisions A, B, C, and D.
+The machines used for final rounds in each division will be designated before the beginning of the final rounds of play. This designation will be determined solely by tournament officials, and may include in each division machines that were not utilized in the qualifying rounds for that division, as well as machines not previously utilized in the tournament at all. There will be at least four machines available in each division, and quite likely more.
 
+All games played in the final rounds are treated as three-player or four-player. In the event a machine being utilized does not support enough simultaneous players, multiple games will be played on the same machine, with playing order preference going by original seeding as usual, and the resulting scores will be compared as if a single multiplayer game had been played.
+
+Before the final rounds begin, a 30-minute warmup period will be provided. This allows players to obtain a feel for certain machine features such as kickouts. Any player who notices problems with a machine at this time must notify tournament officials. This warm-up period will only be made available in Divisions A, B, C, and D.
 
 ### 4. Final Round Scoring
 
-Each group will play three separate four-player games, each on a different machine from among those designated
-for that division.
+Each group will play three separate four-player games, each on a different machine from among those designated for that division.
+
 Each four-player game will be scored as follows:
+
 **Rank Score**
+
 1st 4 
+
 2nd 2 
+
 3rd 1 
+
 4th 0 
-Three-player games will be scored as if a nonexistent fourth player received the 4th place finish (i.e., 1st earns  4 
-points, 2nd earns 2, and last earns 1).
-In the event of two or more scores on a machine being exactly tied, the players with such scores will immediately
-play a tiebreaker game, on the same machine, unless another machine is selected by tournament officials.
-The group that contains the highest-seeded player gets first choice of machine and order of play. The
-highest-seeded player within each group may choose ​ _either_ the machine to be played, or the order of play. If the
-highest-seeded player chooses order of play, the remaining players may choose their order, in descending order of
-seeding, and choice of machine then goes to the next highest-seeded player in the group. Conversely, if the
-highest-seeded player chooses the machine to be played, then the next highest-seeded player chooses the order of
-play, with the remaining players choosing order of play in decreasing order of seeding. Once a player verbally
-announces their game choice, or chooses position, that decision cannot be changed.
-If at any point a high-seed player declines to make a choice, the choice is deferred to the next highest-seeded
-player, as appropriate. The affected group still retains its order of choice among groups, however. If no player in a
-group will make a choice, the choice(s) are determined by tournament officials, who may or may not choose
-randomly.
-Note that the original seeding of players when entering the final rounds from qualifying is used in every round. At no
-time does a player’s seeding change from round to round; therefore the advantage of qualifying in first place can be
-significant.
-No group may select a machine which has already been selected by a group in the same round, nor may they
-choose a machine on which they have already played in that round (unless machine malfunctions have made this
-unavoidable; tournament officials may choose to provide additional or substitute machines, however). If the
-machine selected is currently being played by another group in a previous round of play, the group may wait for that
-round of play to be completed. For example, if one group is playing a given machine as their first machine, a
-different group may choose to wait for it as their second machine.
-In the event a division’s final round overlaps with qualifying for a different division on the same bank of games, final
-round groups are permitted to wait for games that are being used by players attempting to qualify for a different
-division.
-In the event too few machines are available during any round of play, the group(s) with the lowest high-seed players
-will be forced to wait until a game becomes available. As soon as a game becomes available, as indicated by the
-scorekeeper, the next highest-seeded group must begin play on that machine. In this situation, choice of order of
-play will be made by the highest-seed player in the group (unless that player declines, as described above).
 
+Three-player games will be scored as if a nonexistent fourth player received the 4th place finish (i.e., 1st earns  4  points, 2nd earns 2, and last earns 1).
 
-When all games have been completed by a group, each player will have a point total for the round. The players with
-the top two point totals from each group will advance.
+In the event of two or more scores on a machine being exactly tied, the players with such scores will immediately play a tiebreaker game, on the same machine, unless another machine is selected by tournament officials.
 
+The group that contains the highest-seeded player gets first choice of machine and order of play. The highest-seeded player within each group may choose ​ _either_ the machine to be played, or the order of play. If the highest-seeded player chooses order of play, the remaining players may choose their order, in descending order of seeding, and choice of machine then goes to the next highest-seeded player in the group. Conversely, if the highest-seeded player chooses the machine to be played, then the next highest-seeded player chooses the order of play, with the remaining players choosing order of play in decreasing order of seeding. Once a player verbally announces their game choice, or chooses position, that decision cannot be changed.
+
+If at any point a high-seed player declines to make a choice, the choice is deferred to the next highest-seeded player, as appropriate. The affected group still retains its order of choice among groups, however. If no player in a group will make a choice, the choice(s) are determined by tournament officials, who may or may not choose randomly.
+
+Note that the original seeding of players when entering the final rounds from qualifying is used in every round. At no time does a player’s seeding change from round to round; therefore the advantage of qualifying in first place can be significant.
+
+No group may select a machine which has already been selected by a group in the same round, nor may they choose a machine on which they have already played in that round (unless machine malfunctions have made this unavoidable; tournament officials may choose to provide additional or substitute machines, however). If the machine selected is currently being played by another group in a previous round of play, the group may wait for that round of play to be completed. For example, if one group is playing a given machine as their first machine, a different group may choose to wait for it as their second machine.
+
+In the event a division’s final round overlaps with qualifying for a different division on the same bank of games, final round groups are permitted to wait for games that are being used by players attempting to qualify for a different division.
+
+In the event too few machines are available during any round of play, the group(s) with the lowest high-seed players will be forced to wait until a game becomes available. As soon as a game becomes available, as indicated by the scorekeeper, the next highest-seeded group must begin play on that machine. In this situation, choice of order of play will be made by the highest-seed player in the group (unless that player declines, as described above).
+
+When all games have been completed by a group, each player will have a point total for the round. The players with the top two point totals from each group will advance.
 
 ### 5. Round of 24
 
-If a Round of  24  is to be used, it will consist of players ranked 9th through 24th, with the top eight highest seeded
-players receiving a bye.
+If a Round of  24  is to be used, it will consist of players ranked 9th through 24th, with the top eight highest seeded players receiving a bye.
+
 **24 Qualifiers**
+
 Group 1 #9, #16, #17, #
+
 Group 2 #10, #15, #18, #
+
 Group 3 #11, #14, #19, #
+
 Group 4 #12, #13, #20, #
 
 ### 6. Quarterfinal Round
 
-A quarterfinal round may be employed only if twelve or more qualifiers are playing in a division. Tournament
-officials may choose to skip this round even with twelve or more qualifiers.
-In the quarterfinal rounds, the qualifiers in each division will be divided into three or four groups as follows:
+A quarterfinal round may be employed only if twelve or more qualifiers are playing in a division. Tournament officials may choose to skip this round even with twelve or more qualifiers. In the quarterfinal rounds, the qualifiers in each division will be divided into three or four groups as follows:
+
 **12 Qualifiers 16 Qualifiers**
+
 Group 1 #1, #6, #7, #12 #1, #8, #9, #
+
 Group 2 #2, #5, #8, #11 #2, #7, #10, #
+
 Group 3 #3, #4, #9, #10 #3, #6, #11, #
+
 Group 4 _n/a_ #4, #5, #12, #
 
 ### 7. Semifinal Rounds
 
-For the semifinal rounds in each division, the qualifiers in each division (or players advancing from quarterfinals, if
-those were played) will be divided into two to four groups of three or four, as necessary depending on the number
-of qualifiers. The groups will be organized according to the original qualifying rank as shown here:
-**# Qualifiers: 6 8 9**
-Group 1 #1, #4, #6 #1, #4, #5, #8 #1, #6, #
-Group 2 #2, #3, #5 #2, #3, #6, #7 #2, #5, #
-Group 3 _n/a n/a_ #3, #4, #
-Group 4 _n/a n/a n/a_
-As in the previous round, the players with the top two point totals from each group of players will advance.
+For the semifinal rounds in each division, the qualifiers in each division (or players advancing from quarterfinals, if those were played) will be divided into two to four groups of three or four, as necessary depending on the number of qualifiers. The groups will be organized according to the original qualifying rank as shown here:
 
+**# Qualifiers: 6 8 9**
+
+Group 1 #1, #4, #6 #1, #4, #5, #8 #1, #6, #
+
+Group 2 #2, #3, #5 #2, #3, #6, #7 #2, #5, #
+
+Group 3 _n/a n/a_ #3, #4, #
+
+Group 4 _n/a n/a n/a_
+
+As in the previous round, the players with the top two point totals from each group of players will advance.
 
 ### 8. Final Round
 
-In each division, four players advance to the final round. The final round for each division is conducted in the same
-manner as the semifinal round. The total scores for this round will determine the ordering of winners in each
-division. All ties in the final round are considered significant.
-Unless otherwise determined by tournament officials, the same machines will be used in the final rounds as the
-previous rounds.
+In each division, four players advance to the final round. The final round for each division is conducted in the same manner as the semifinal round. The total scores for this round will determine the ordering of winners in each division. All ties in the final round are considered significant.  Unless otherwise determined by tournament officials, the same machines will be used in the final rounds as the previous rounds.
 
 ### 9. Winners
 
-All information on collecting prize money can be found at ​https://papa.org/prizes
+All information on collecting prize money can be found at https://papa.org/prizes
 
 ### 10. Classics Division
 
-The final rounds of the Classics I, II, and III divisions, as played on Thursday, Friday, and Saturday evenings of the
-tournament, will utilize the final rounds format of the A/B/C/D divisions.
-In the event that a selected machine supports fewer than four players, the players will play multiple one-player or
-two-player games in turn, with the resulting scores being compared as if a four-player game had been played.
-Machines used in Classics may include extra balls and/or five-ball play. These features may be utilized by the
-player unless otherwise posted.
-Winners for each day of Classics competition will receive their awards promptly and do not need to wait until the
-awards ceremony on Sunday. We appreciate everyone’s understanding of the unique challenges and limitations of
-using older machines for a competitive tournament. All prize checks will be mailed out no later than  60  days
-following the event.
+The final rounds of the Classics I, II, and III divisions, as played on Thursday, Friday, and Saturday evenings of the tournament, will utilize the final rounds format of the A/B/C/D divisions.
+
+In the event that a selected machine supports fewer than four players, the players will play multiple one-player or two-player games in turn, with the resulting scores being compared as if a four-player game had been played.  Machines used in Classics may include extra balls and/or five-ball play. These features may be utilized by the player unless otherwise posted.
+
+Winners for each day of Classics competition will receive their awards promptly and do not need to wait until the awards ceremony on Sunday. We appreciate everyone’s understanding of the unique challenges and limitations of using older machines for a competitive tournament. All prize checks will be mailed out no later than  60  days following the event.
 
 ### 11. Final Round Tiebreak Procedure
 
-Significant ties between players at the end of any final round will be resolved by one tiebreaking game chosen by
-the highest seed involved in the tie. The high seed is not permitted to choose a game that has already been played
-by the group in that round. Note that a tie is only significant if it affects whether or not a player will advance toward
-the final round, or occurs in the final round.
-If more than one group of players are tied, the machine is chosen for the group with the highest-ranking tied player
-first. The selected machine is not available for selection in lower groups. All tied groups will play their tiebreaking
-games in parallel.
-In the unlikely event of an exact scoring tie on the tiebreaking game, only those affected players will play another
-tiebreaking game, on another game chosen in similar fashion, under the same rules.
+Significant ties between players at the end of any final round will be resolved by one tiebreaking game chosen by the highest seed involved in the tie. The high seed is not permitted to choose a game that has already been played by the group in that round. Note that a tie is only significant if it affects whether or not a player will advance toward the final round, or occurs in the final round.
 
+If more than one group of players are tied, the machine is chosen for the group with the highest-ranking tied player first. The selected machine is not available for selection in lower groups. All tied groups will play their tiebreaking games in parallel.
+
+In the unlikely event of an exact scoring tie on the tiebreaking game, only those affected players will play another tiebreaking game, on another game chosen in similar fashion, under the same rules.
 
 ## V. Other Competitions
 
@@ -495,14 +438,11 @@ Rules and descriptions of all mini-tournaments, if offered, will be posted at th
 
 ### 2. Target Scores
 
-On any given day of the tournament, tournament officials may choose to post a set of target scores or objectives
-for certain machines. The first player to reach any target score will be awarded $100 cash. Target scores expire at
-the end of the day and are only awarded to the first player to exceed the score.
+On any given day of the tournament, tournament officials may choose to post a set of target scores or objectives for certain machines. The first player to reach any target score will be awarded $100 cash. Target scores expire at the end of the day and are only awarded to the first player to exceed the score.
 
 ### 3. Door Prizes
 
 Other door prizes and/or random drawings may be offered as tournament officials see fit.
-
 
 ## VI. Malfunctions and Rulings
 
@@ -532,9 +472,9 @@ A major malfunction is a gameplay problem with a machine that results in the pre
 fashion that is not a normal feature of the machine’s gameplay. These may be unusual one-time events, or they
 may indicate a recurring problem that will need to be addressed by technicians.
 Examples of major malfunctions include:
-● The bonus count begins while the ball is still in play. This can happen if, for example, the machine loses
+-  The bonus count begins while the ball is still in play. This can happen if, for example, the machine loses
 track of how many balls are in the drain trough.
-● A flipper or other major playfield feature ceases to function.
+-  A flipper or other major playfield feature ceases to function.
 Note that unrepeated physical failures, such as kickbacks or balls jumping off ramps, balls flying over flippers, or
 balls moonwalking into the outlane following a successful shot do not qualify as major malfunctions. This is the
 physical nature of pinball.
@@ -555,15 +495,15 @@ not ending the ball in play, this will be considered no worse than a minor malfu
 When a major malfunction occurs, it is the player’s responsibility to notify the scorekeeper, calmly and promptly.
 The scorekeeper will request advice from a tournament official. If the official(s) agree that the incident is a major
 malfunction, one of the following steps will be taken, in order of priority:
-● 1. If the machine’s software supports adding balls to a game already in progress, a tournament official will
+-  1. If the machine’s software supports adding balls to a game already in progress, a tournament official will
 add a ball to the game in progress and the affected player will complete their game. All other players will
 continue to play their game as normal, without skipping a ball.
-● If the major malfunction cannot be fixed without resetting the machine, the player’s score will be recorded
+-  If the major malfunction cannot be fixed without resetting the machine, the player’s score will be recorded
 and their game will be terminated and restarted. The affected player will continue their remaining balls on
 the restarted game and their score from the aborted game will be added to their total. For example, if such
 a malfunction occurs on Ball 2 of a 3-ball game, the player will be given two new balls on a restarted game.
 In multiplayer games, all players will receive the same compensation.
-● If the major malfunction can be fixed without resetting the machine, the player will be provided with one
+-  If the major malfunction can be fixed without resetting the machine, the player will be provided with one
 additional ball of play at the beginning of a new game, after the current game has been completed. The
 player’s total score on the additional ball will be added to his or her previous score, and the new game will
 be terminated.
@@ -595,10 +535,10 @@ treated as a minor malfunction unless it worsens or interacts with another featu
 A catastrophic malfunction is any event, not caused by a player, which immediately ends play for all players on the
 machine.
 Examples of catastrophic malfunctions include:
-● The game system crashes and/or resets due to a software error or component failure.
-● Power is lost or interrupted.
-● A new game starts.
-● A major malfunction repeatedly recurs in spite of attempts to repair the machine.
+-  The game system crashes and/or resets due to a software error or component failure.
+-  Power is lost or interrupted.
+-  A new game starts.
+-  A major malfunction repeatedly recurs in spite of attempts to repair the machine.
 Any event caused by a player, intentionally or unintentionally, including Slam Tilts, is covered under “Player Errors”
 below.
 When a catastrophic malfunction occurs, if the scores are able to be recorded, players will be provided the
@@ -868,19 +808,19 @@ seriously, ruled upon, and considered resolved. There is to be ​ _no whining_
 
 In general, the software settings of each machine will be adjusted to best accommodate tournament play. The
 following settings will be employed on any machine that supports them:
-● Tournament Mode
-● Free Play
-● 3 Balls
-● Extra Balls disabled
-● Buy-In or Continues disabled
-● Game Restart disabled
-● 2 Tilt Warnings (may be 0 on older machines)
-● Flipper AutoLaunch disabled
-● Timed AutoLaunch disabled
-● Standard Factory Settings for Ball Savers, Difficulty, Timers, etc
-● Specific Difficulty Settings as determined by tournament officials
-● Automatic Reflexing Features disabled
-● Replays disabled (no score or Extra Ball awarded)
+-  Tournament Mode
+-  Free Play
+-  3 Balls
+-  Extra Balls disabled
+-  Buy-In or Continues disabled
+-  Game Restart disabled
+-  2 Tilt Warnings (may be 0 on older machines)
+-  Flipper AutoLaunch disabled
+-  Timed AutoLaunch disabled
+-  Standard Factory Settings for Ball Savers, Difficulty, Timers, etc
+-  Specific Difficulty Settings as determined by tournament officials
+-  Automatic Reflexing Features disabled
+-  Replays disabled (no score or Extra Ball awarded)
 These settings may vary according to division, at the discretion of tournament officials. In general, expect settings
 to be the most difficult in the A Division.
 Please note that older machines, such as commonly used in the Classics Divisions, may have different settings,
