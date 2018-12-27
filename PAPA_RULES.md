@@ -2,11 +2,12 @@
 
 # Complete Competition Rules
 
-This document contains the rules for the ​ _PAPA World Pinball Championships​_. This document is also the baseline
-for all PAPA-related competitive pinball rulings. ​ _Leagues and tournaments are welcome to copy these rules and
-adapt them as needed but are required, as per the Creative Commons license, to cite the original source​_ ​ **PAPA.org**
-_within their own ruleset.​_ This document is actively updated, and all leagues and tournaments using this ruleset as a
+This document contains the rules for the _PAPA World Pinball Championships_. This document is also the baseline
+for all PAPA-related competitive pinball rulings. _Leagues and tournaments are welcome to copy these rules and
+adapt them as needed but are required, as per the Creative Commons license, to cite the original source_  **PAPA.org**
+_within their own ruleset._ This document is actively updated, and all leagues and tournaments using this ruleset as a
 baseline are encouraged to update their own rules at least once per year.
+
 The Pinburgh Match-Play Championships ruleset contains adjustments that supersede portions of this document
 for that specific tournament.
 
@@ -21,8 +22,6 @@ rulings, delegate responsibilities and authority, and otherwise work to ensure t
 tournament. Event coordinators and designated officials may participate in the tournament, but their tickets will
 automatically be considered void at all times, and they are not eligible to participate in any final rounds or to receive
 prizes of any kind.
-
-
 
 - I. Quick Overview
 - II. Singles Competition
