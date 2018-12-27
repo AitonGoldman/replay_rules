@@ -1,6 +1,4 @@
-# Professional & Amateur Pinball Association
-
-# Complete Competition Rules
+# Professional & Amateur Pinball Association Complete Competition Rules
 
 This document contains the rules for the _PAPA World Pinball Championships_. This document is also the baseline
 for all PAPA-related competitive pinball rulings. _Leagues and tournaments are welcome to copy these rules and
