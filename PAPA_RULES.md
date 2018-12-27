@@ -1,59 +1,67 @@
-- I. Quick Overview
-- II. Singles Competition
-   - 1. Divisions of Play
-   - 2. Skill Division Restrictions
-   - 3. Fees
-   - 4. Prizes
-- III. Singles: Qualifying Rounds
-   - 1. Purchasing Tickets
-   - 2. Playing a Ticket
-   - 3. Scoring
-   - 4. Scoring Example
-- IV. Singles: Final Rounds
-   - 1. Advancing to Finals
-   - 2. Qualifying Tiebreak Procedure
-   - 3. Final Round Machines & Warmup
-   - 4. Final Round Scoring
-   - 5. Round of
-   - 6. Quarterfinal Round
-   - 7. Semifinal Rounds
-   - 8. Final Round
-   - 9. Winners
-   - 10. Classics Division
-   - 11. Final Round Tiebreak Procedure
-- V. Other Competitions
-   - 1. Mini-Tournaments
-   - 2. Target Scores
-   - 3. Door Prizes
-- VI. Malfunctions and Rulings
-   - 1. The Nature of Pinball
-   - 2. Minor Malfunctions
-   - 3. Major Malfunctions
-   - 4. Known Malfunctions
-   - 5. Catastrophic Malfunctions
-   - 6. Beneficial Malfunctions
-   - 7. Stuck Balls
-   - 8. Disabled Machines
-   - 9. Player Errors
-   - 10. Rulings
-- VII. Machine Settings
-   - 1. Software Settings
-   - 2. Hardware Settings
-   - 3. Machine-Specific Settings
-- VIII. Player Conduct
-   - 1. Facility
-   - 2. Personal Conduct
-   - 3. Abuse of Machines
-   - 4. Interference, Collusion, and Cheating
-   - 5. Intentional Delays
-   - 6. Absences
-   - 7. Death Saves, Bangbacks, etc
-   - 8. Wagering or Gambling
-   - 9. Internet Use
-   - 10. Accommodating Disabilities
-- IX. Miscellaneous
-   - 1. Special Score Handling
-   - 2. Creative Commons License
+I. Quick Overview
+
+II. Singles Competition
+   1. Divisions of Play
+   1. Skill Division Restrictions
+   1. Fees
+   1. Prizes
+
+III. Singles: Qualifying Rounds
+   1. Purchasing Tickets
+   1. Playing a Ticket
+   1. Scoring
+   1. Scoring Example
+
+IV. Singles: Final Rounds
+   1. Advancing to Finals
+   1. Qualifying Tiebreak Procedure
+   1. Final Round Machines & Warmup
+   1. Final Round Scoring
+   1. Round of
+   1. Quarterfinal Round
+   1. Semifinal Rounds
+   1. Final Round
+   1. Winners
+   1. Classics Division
+   1. Final Round Tiebreak Procedure
+
+V. Other Competitions
+   1. Mini-Tournaments
+   1. Target Scores
+   1. Door Prizes
+
+VI. Malfunctions and Rulings
+   1. The Nature of Pinball
+   1. Minor Malfunctions
+   1. Major Malfunctions
+   1. Known Malfunctions
+   1. Catastrophic Malfunctions
+   1. Beneficial Malfunctions
+   1. Stuck Balls
+   1. Disabled Machines
+   1. Player Errors
+   1. Rulings
+
+VII. Machine Settings
+   1. Software Settings
+   2. Hardware Settings
+   3. Machine-Specific Settings
+
+VIII. Player Conduct
+   1. Facility
+   1. Personal Conduct
+   1. Abuse of Machines
+   1. Interference, Collusion, and Cheating
+   1. Intentional Delays
+   1. Absences
+   1. Death Saves, Bangbacks, etc
+   1. Wagering or Gambling
+   1. Internet Use
+   1. Accommodating Disabilities
+   
+IX. Miscellaneous
+   1. Special Score Handling
+   1. Creative Commons License
 
 
 ## I. Quick Overview
