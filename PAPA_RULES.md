@@ -9,10 +9,12 @@ _within their own ruleset.​_ This document is actively updated, and all league
 baseline are encouraged to update their own rules at least once per year.
 The Pinburgh Match-Play Championships ruleset contains adjustments that supersede portions of this document
 for that specific tournament.
+
 All players, winning or not, grant PAPA, Replay Foundation, and any and all other event sponsors and organizers,
 individual and collective, the right to use their names, scores, and likenesses for the purpose of promoting
 pinball-related events. This right is transferable without restriction. Video recording and photography occur at all
 PAPA events.
+
 The event coordinators for the PAPA World Championships are Kevin Martin, Mark Steinman, Elizabeth Cromwell,
 and Douglas Polka. Event coordinators organize volunteers, designate scorekeepers, handle malfunctions and
 rulings, delegate responsibilities and authority, and otherwise work to ensure the smooth operation of the
