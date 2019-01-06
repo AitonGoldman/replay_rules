@@ -1,4 +1,4 @@
-1. [Quick Overview](#I.-Quick-Overview)
+1. [Quick Overview](#Quick-Overview)
 
 1. [Singles Competition](#II.-Singles-Competition)
    1. Divisions of Play
@@ -64,7 +64,7 @@
    1. Creative Commons License
 
 
-# I. Quick Overview
+# Quick Overview
 
 PAPA tournament rules are quite lengthy and detailed. They reflect the experience of many years of tournament and league play, under many different systems. The principles are simple, however.
 
