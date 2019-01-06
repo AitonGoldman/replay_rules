@@ -17,7 +17,7 @@
    1. Qualifying Tiebreak Procedure
    1. Final Round Machines & Warmup
    1. Final Round Scoring
-   1. Round of
+   1. Round of 24
    1. Quarterfinal Round
    1. Semifinal Rounds
    1. Final Round
@@ -330,7 +330,7 @@ In the event too few machines are available during any round of play, the group(
 
 When all games have been completed by a group, each player will have a point total for the round. The players with the top two point totals from each group will advance.
 
-### 5. Round of twenty four
+### 5. Round of 24
 
 If a Round of  24  is to be used, it will consist of players ranked 9th through 24th, with the top eight highest seeded players receiving a bye.
 
