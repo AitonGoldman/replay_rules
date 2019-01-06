@@ -167,7 +167,7 @@ The tournament features a guaranteed package of prizes. In the event of an overr
 
 The winner of the A Division will also receive the title ​ **“World Pinball Champion”**. This title remains in effect until the next annual PAPA tournament, or will expire after two years if PAPA tournaments are discontinued.
 
-## Singles Qualifying Rounds
+# Singles Qualifying Rounds
 
 ### 1. Purchasing Tickets
 
@@ -267,7 +267,7 @@ machine scores out of the twelve available machines. It is important to note the
 qualify will change from year to year depending on how players perform on the games and rank against one
 another. In this example, the highest possible qualifying score would be first place on all six games, or 600 points.
 
-## Singles Final Rounds
+# Singles Final Rounds
 
 ### 1. Advancing to Finals
 
@@ -399,7 +399,7 @@ If more than one group of players are tied, the machine is chosen for the group 
 
 In the unlikely event of an exact scoring tie on the tiebreaking game, only those affected players will play another tiebreaking game, on another game chosen in similar fashion, under the same rules.
 
-## Other Competitions
+# Other Competitions
 
 ### 1. Mini-Tournaments
 
@@ -629,7 +629,7 @@ Rulings shall be made by tournament officials, which includes event coordinators
 
 PAPA accepts all feedback and constructive criticism, including player complaints, without reservations. However, please recognize that PAPA strives to be fair even in the most difficult situations. Complaints will be taken seriously, ruled upon, and considered resolved. There is to be ​ _no whining_
 
-## Machine Settings
+# Machine Settings
 
 ### 1. Software Settings
 
@@ -664,7 +664,7 @@ Machines used for tournament play will be prepared and kept in good working orde
 In order to best suit tournament play, certain machines may be subject to specific settings or rules adjustments, at the discretion of tournament officials. These adjustments will be made before tournament play begins, and will be documented if possible. The intent is to eliminate features which can be abused by skilled players, or which arbitrarily extend play time to a degree that would hinder the smooth progress of the tournament.
 
 
-## Player Conduct
+# Player Conduct
 
 ### 1. Facility
 
@@ -727,7 +727,7 @@ The facility provides access to Internet kiosks as well as a wireless Internet a
 Tournament officials will make every reasonable attempt to accommodate genuine disabilities, and may also elect, on a case-by-case basis, to ameliorate injuries or other hardships. Players who are not fluent in English are allowed to utilize a bilingual assistant in order to understand these rules, official rulings, and so forth.
 
 
-## Miscellaneous
+# Miscellaneous
 
 ### 1. Special Score Handling
 
