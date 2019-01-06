@@ -202,15 +202,11 @@ The rank of the player’s result on each machine contributes the following poin
 
 **Rank Score**
 
-1st 100 points
-
-2nd 90 
-
-3rd 85 
-
-4th down to 87th 
-
-84 down to 1
+- 1st gets 100 points
+- 2nd gets 90 points
+- 3rd gets 85 points
+- 4th - 87th gets  84 - 1 points
+  - For example, 5th place gets 83 points 
 
 Tournament officials will provide up-to-date scores and rankings at all times, using a projected screen or television-type display. The up-to-date scores and rankings are also available on the web site at all times.
 
@@ -311,10 +307,10 @@ Each four-player game will be scored as follows:
 **Rank Score**
 
 
-- 1st : 4
-- 2nd : 2
-- 3rd : 1
-- 4th : 0
+- 1st : 4 points
+- 2nd : 2 points
+- 3rd : 1 points
+- 4th : 0 points
 
 Three-player games will be scored as if a nonexistent fourth player received the 4th place finish (i.e., 1st earns  4  points, 2nd earns 2, and last earns 1).
 
