@@ -119,17 +119,12 @@ Registration is not required to play mini-tournaments, to play non-tournament ma
 
 The fees for tickets in each division are:
 
-General Attendee $20 Division A $5 per ticket, or 3 tickets for $
-
-Weekend Pass (All 5 Days) $75 Division B $4 per ticket, or 3 tickets for $
-
-Evening Pass (After 7pm) $15 Division C $3 per ticket, or 3 tickets for $
-
-Kids Pass (6-16) $15 Division D $1 per ticket
-
-Kids Under 5 Free! Classics $4 per ticket, or 3 tickets for $
-
-Other Divisions $2 per ticket, or 3 tickets for $
+- General Attendee $20 Division A $5 per ticket, or 3 tickets for 
+- Weekend Pass (All 5 Days) $75 Division B $4 per ticket, or 3 tickets for $
+- Evening Pass (After 7pm) $15 Division C $3 per ticket, or 3 tickets for $
+- Kids Pass (6-16) $15 Division D $1 per ticket
+- Kids Under 5 Free! Classics $4 per ticket, or 3 tickets for $
+- Other Divisions $2 per ticket, or 3 tickets for $
 
 No tickets will be refunded at any time, so please plan your timing accordingly with the posted schedule.
 
@@ -140,51 +135,33 @@ The tournament features a guaranteed package of prizes. In the event of an overr
 
 **Division A Division B**
 
-1st Place 7000 + Trophy 1st Place 2000 + Trophy
-
-2nd Place 2000 + Medal 2nd Place 1000 + Medal
-
-3rd Place 1200 + Medal 3rd Place 600 + Medal
-
-4th Place 800 + Medal 4th Place 400 + Medal
-
-5th-8th Place 400  5th-8th Place 200 
-
-9th-16th Place 250 9th-16th Place 125 
-
-17th-24th Place 200  17th-24th Place 100 
+- 1st Place 7000 + Trophy 1st Place 2000 + Trophy
+- 2nd Place 2000 + Medal 2nd Place 1000 + Medal
+- 3rd Place 1200 + Medal 3rd Place 600 + Medal
+- 4th Place 800 + Medal 4th Place 400 + Medal
+- 5th-8th Place 400  5th-8th Place 200 
+- 9th-16th Place 250 9th-16th Place 125 
+- 17th-24th Place 200  17th-24th Place 100 
 
 **Division C Division D**
 
-1st Place 1000 + Trophy Cup 1st Place 150 + Trophy Cup
-
-2nd Place 500 + Medal 2nd Place 125 + Medal
-
-3rd Place 300 + Medal 3rd Place 100 + Medal
-
-4th Place 200 + Medal 4th Place 75 + Medal
-
-5th-8th Place 100  5th-8th Place 50 
-
-9th-16th Place 75  9th-16th Place 25 
-
-17th-24th Place 50  17th-24th Place 25 
+- 1st Place 1000 + Trophy Cup 1st Place 150 + Trophy Cup
+- 2nd Place 500 + Medal 2nd Place 125 + Medal
+- 3rd Place 300 + Medal 3rd Place 100 + Medal
+- 4th Place 200 + Medal 4th Place 75 + Medal
+- 5th-8th Place 100  5th-8th Place 50 
+- 9th-16th Place 75  9th-16th Place 25 
+- 17th-24th Place 50  17th-24th Place 25 
 
 **Classics I, II, & III All Other Divisions**
 
-1st Place 1000 + Trophy Cup 1st Place Medal
-
-2nd Place 500 + Medal 2nd Place Medal
-
-3rd Place 300 + Medal 3rd Place Medal
-
-4th Place 200 + Medal 4th Place Medal
-
-5th-8th Place 100 
-
-9th-16th Place 75 
-
-17th-24th Place 50 
+- 1st Place 1000 + Trophy Cup 1st Place Medal
+- 2nd Place 500 + Medal 2nd Place Medal
+- 3rd Place 300 + Medal 3rd Place Medal
+- 4th Place 200 + Medal 4th Place Medal
+- 5th-8th Place 100 
+- 9th-16th Place 75 
+- 17th-24th Place 50 
 
 **Total prize package $37,000+**
 
@@ -231,7 +208,9 @@ The rank of the player’s result on each machine contributes the following poin
 
 3rd 85 
 
-4th down to 87th 84 down to 1
+4th down to 87th 
+
+84 down to 1
 
 Tournament officials will provide up-to-date scores and rankings at all times, using a projected screen or television-type display. The up-to-date scores and rankings are also available on the web site at all times.
 
@@ -331,13 +310,11 @@ Each four-player game will be scored as follows:
 
 **Rank Score**
 
-1st 4
- 
-2nd 2 
 
-3rd 1 
-
-4th 0 
+- 1st : 4
+- 2nd : 2
+- 3rd : 1
+- 4th : 0
 
 Three-player games will be scored as if a nonexistent fourth player received the 4th place finish (i.e., 1st earns  4  points, 2nd earns 2, and last earns 1).
 
