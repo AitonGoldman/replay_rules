@@ -1,18 +1,18 @@
 1. [Quick Overview](#I.-Quick-Overview)
 
-1. Singles Competition
+1. [Singles Competition](#II.-Singles-Competition)
    1. Divisions of Play
    1. Skill Division Restrictions
    1. Fees
    1. Prizes
 
-1. Singles: Qualifying Rounds
+1. [Singles: Qualifying Rounds](#III.-Singles:-Qualifying-Rounds)
    1. Purchasing Tickets
    1. Playing a Ticket
    1. Scoring
    1. Scoring Example
 
-1. Singles: Final Rounds
+1. [Singles: Final Rounds](#IV.-Singles:-Final-Rounds) 
    1. Advancing to Finals
    1. Qualifying Tiebreak Procedure
    1. Final Round Machines & Warmup
@@ -25,12 +25,12 @@
    1. Classics Division
    1. Final Round Tiebreak Procedure
 
-1. Other Competitions
+1. [Other Competitions](#V.-Other-Competitions)
    1. Mini-Tournaments
    1. Target Scores
    1. Door Prizes
 
-1. Malfunctions and Rulings
+1. [Malfunctions and Rulings](#VI.-Malfunctions-and-Rulings)
    1. The Nature of Pinball
    1. Minor Malfunctions
    1. Major Malfunctions
@@ -42,12 +42,12 @@
    1. Player Errors
    1. Rulings
 
-1. Machine Settings
+1. [Machine Settings](#VII.-Machine-Settings)
    1. Software Settings
    2. Hardware Settings
    3. Machine-Specific Settings
 
-1. Player Conduct
+1. [Player Conduct](#VIII.-Player-Conduct)
    1. Facility
    1. Personal Conduct
    1. Abuse of Machines
@@ -59,12 +59,12 @@
    1. Internet Use
    1. Accommodating Disabilities
    
-1. Miscellaneous
+1. [Miscellaneous](#IX.-Miscellaneous)
    1. Special Score Handling
    1. Creative Commons License
 
 
-# I. Quick Overview
+## I. Quick Overview
 
 PAPA tournament rules are quite lengthy and detailed. They reflect the experience of many years of tournament and league play, under many different systems. The principles are simple, however.
 
