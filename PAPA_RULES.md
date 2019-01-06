@@ -1,18 +1,18 @@
 1. [Quick Overview](#Quick-Overview)
 
-1. [Singles Competition](#II.-Singles-Competition)
+1. [Singles Competition](#Singles-Competition)
    1. Divisions of Play
    1. Skill Division Restrictions
    1. Fees
    1. Prizes
 
-1. [Singles: Qualifying Rounds](#III.-Singles:-Qualifying-Rounds)
+1. [Singles: Qualifying Rounds](#Singles-Qualifying-Rounds)
    1. Purchasing Tickets
    1. Playing a Ticket
    1. Scoring
    1. Scoring Example
 
-1. [Singles: Final Rounds](#IV.-Singles:-Final-Rounds) 
+1. [Singles: Final Rounds](#Singles:-Final-Rounds) 
    1. Advancing to Finals
    1. Qualifying Tiebreak Procedure
    1. Final Round Machines & Warmup
@@ -25,12 +25,12 @@
    1. Classics Division
    1. Final Round Tiebreak Procedure
 
-1. [Other Competitions](#V.-Other-Competitions)
+1. [Other Competitions](#Other-Competitions)
    1. Mini-Tournaments
    1. Target Scores
    1. Door Prizes
 
-1. [Malfunctions and Rulings](#VI.-Malfunctions-and-Rulings)
+1. [Malfunctions and Rulings](#Malfunctions-and-Rulings)
    1. The Nature of Pinball
    1. Minor Malfunctions
    1. Major Malfunctions
@@ -42,12 +42,12 @@
    1. Player Errors
    1. Rulings
 
-1. [Machine Settings](#VII.-Machine-Settings)
+1. [Machine Settings](#Machine-Settings)
    1. Software Settings
    2. Hardware Settings
    3. Machine-Specific Settings
 
-1. [Player Conduct](#VIII.-Player-Conduct)
+1. [Player Conduct](#Player-Conduct)
    1. Facility
    1. Personal Conduct
    1. Abuse of Machines
@@ -59,12 +59,12 @@
    1. Internet Use
    1. Accommodating Disabilities
    
-1. [Miscellaneous](#IX.-Miscellaneous)
+1. [Miscellaneous](#Miscellaneous)
    1. Special Score Handling
    1. Creative Commons License
 
 
-# Quick Overview
+## Quick Overview
 
 PAPA tournament rules are quite lengthy and detailed. They reflect the experience of many years of tournament and league play, under many different systems. The principles are simple, however.
 
@@ -75,7 +75,7 @@ In the three classics divisions, competitors will be scored on their best four o
 In the final rounds, qualifying players play against each other in multiplayer games. A point system is used to determine who advances to the next round and, ultimately, who wins the division.
 
 
-## II. Singles Competition
+## Singles Competition
 
 ### 1. Divisions of Play
 **Division D** – Division D at the PAPA World Championships is designed for beginners and novice players. This Division is intended to offer experience to players who are new to competitive pinball. If you are unsure of how PAPA’s tournament process works or do not feel comfortable competing in Divisions A, B, or C, we encourage you to play in Division D. Please note that Division D is heavily restricted to only allow newer competitive players.
@@ -167,7 +167,7 @@ The tournament features a guaranteed package of prizes. In the event of an overr
 
 The winner of the A Division will also receive the title ​ **“World Pinball Champion”**. This title remains in effect until the next annual PAPA tournament, or will expire after two years if PAPA tournaments are discontinued.
 
-## III. Singles: Qualifying Rounds
+## Singles Qualifying Rounds
 
 ### 1. Purchasing Tickets
 
@@ -267,7 +267,7 @@ machine scores out of the twelve available machines. It is important to note the
 qualify will change from year to year depending on how players perform on the games and rank against one
 another. In this example, the highest possible qualifying score would be first place on all six games, or 600 points.
 
-## IV. Singles: Final Rounds
+## Singles Final Rounds
 
 ### 1. Advancing to Finals
 
@@ -399,7 +399,7 @@ If more than one group of players are tied, the machine is chosen for the group 
 
 In the unlikely event of an exact scoring tie on the tiebreaking game, only those affected players will play another tiebreaking game, on another game chosen in similar fashion, under the same rules.
 
-## V. Other Competitions
+## Other Competitions
 
 ### 1. Mini-Tournaments
 
@@ -413,7 +413,7 @@ On any given day of the tournament, tournament officials may choose to post a se
 
 Other door prizes and/or random drawings may be offered as tournament officials see fit.
 
-## VI. Malfunctions and Rulings
+## Malfunctions and Rulings
 
 ### 1. The Nature of Pinball
 
@@ -629,7 +629,7 @@ Rulings shall be made by tournament officials, which includes event coordinators
 
 PAPA accepts all feedback and constructive criticism, including player complaints, without reservations. However, please recognize that PAPA strives to be fair even in the most difficult situations. Complaints will be taken seriously, ruled upon, and considered resolved. There is to be ​ _no whining_
 
-## VII. Machine Settings
+## Machine Settings
 
 ### 1. Software Settings
 
@@ -664,7 +664,7 @@ Machines used for tournament play will be prepared and kept in good working orde
 In order to best suit tournament play, certain machines may be subject to specific settings or rules adjustments, at the discretion of tournament officials. These adjustments will be made before tournament play begins, and will be documented if possible. The intent is to eliminate features which can be abused by skilled players, or which arbitrarily extend play time to a degree that would hinder the smooth progress of the tournament.
 
 
-## VIII. Player Conduct
+## Player Conduct
 
 ### 1. Facility
 
@@ -727,7 +727,7 @@ The facility provides access to Internet kiosks as well as a wireless Internet a
 Tournament officials will make every reasonable attempt to accommodate genuine disabilities, and may also elect, on a case-by-case basis, to ameliorate injuries or other hardships. Players who are not fluent in English are allowed to utilize a bilingual assistant in order to understand these rules, official rulings, and so forth.
 
 
-## IX. Miscellaneous
+## Miscellaneous
 
 ### 1. Special Score Handling
 
