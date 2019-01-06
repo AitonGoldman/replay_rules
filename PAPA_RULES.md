@@ -12,7 +12,7 @@
    1. Scoring
    1. Scoring Example
 
-1. [Singles: Final Rounds](#Singles:-Final-Rounds) 
+1. [Singles: Final Rounds](#Singles-Final-Rounds) 
    1. Advancing to Finals
    1. Qualifying Tiebreak Procedure
    1. Final Round Machines & Warmup
