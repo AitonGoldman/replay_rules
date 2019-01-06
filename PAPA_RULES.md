@@ -64,7 +64,7 @@
    1. Creative Commons License
 
 
-## Quick Overview
+# Quick Overview
 
 PAPA tournament rules are quite lengthy and detailed. They reflect the experience of many years of tournament and league play, under many different systems. The principles are simple, however.
 
@@ -75,7 +75,7 @@ In the three classics divisions, competitors will be scored on their best four o
 In the final rounds, qualifying players play against each other in multiplayer games. A point system is used to determine who advances to the next round and, ultimately, who wins the division.
 
 
-## Singles Competition
+# Singles Competition
 
 ### 1. Divisions of Play
 **Division D** – Division D at the PAPA World Championships is designed for beginners and novice players. This Division is intended to offer experience to players who are new to competitive pinball. If you are unsure of how PAPA’s tournament process works or do not feel comfortable competing in Divisions A, B, or C, we encourage you to play in Division D. Please note that Division D is heavily restricted to only allow newer competitive players.
