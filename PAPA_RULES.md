@@ -64,7 +64,7 @@
    1. Creative Commons License
 
 
-## I. Quick Overview
+# I. Quick Overview
 
 PAPA tournament rules are quite lengthy and detailed. They reflect the experience of many years of tournament and league play, under many different systems. The principles are simple, however.
 
