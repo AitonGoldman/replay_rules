@@ -1,18 +1,10 @@
-1. [Quick Overview](#Quick-Overview)
-
-1. [Singles Competition](#Singles-Competition)
-   1. Divisions of Play
-   1. Skill Division Restrictions
-   1. Fees
-   1. Prizes
-
 1. [Singles: Qualifying Rounds](#Singles-Qualifying-Rounds)
-   1. Purchasing Tickets
-   1. Playing a Ticket
-   1. Scoring
-   1. Scoring Example
-
-1. [Singles: Final Rounds](#Singles-Final-Rounds) 
+   1. Generic PAPA tournament scoring
+   1. Generic HERB tournament scoring
+   1. PAPA tournament scoring examples
+   1. HERB tournament scoring examples
+ 
+1. [Singles: Final Rounds](#Singles:-Final-Rounds) 
    1. Advancing to Finals
    1. Qualifying Tiebreak Procedure
    1. Final Round Machines & Warmup
@@ -64,208 +56,12 @@
    1. Creative Commons License
 
 
-# Quick Overview
-
-PAPA tournament rules are quite lengthy and detailed. They reflect the experience of many years of tournament and league play, under many different systems. The principles are simple, however.
-
-In Divisions A, B, and C, qualifying scores will be drawn from a player’s best attempts on six of the twelve available machines. Each individual attempt on a machine will be weighted against all other attempts on that same machine and ranked on a scale of 0-100 points. This ranking system allows individual game scores from different eras of pinball to be compared directly with one another. Players are permitted as many attempts as they wish on each of the twelve machines within a division, but only their best attempt on six different machines will count toward theiroverall qualifying score.
-
-In the three classics divisions, competitors will be scored on their best four out of sixteen machines. In all other divisions, competitors will be scored on their best four of the eight machines available. Qualifying attempts for Divisions A, B, C and D may be made any time the facility is open between Thursday morning and closing time on Saturday.
-
-In the final rounds, qualifying players play against each other in multiplayer games. A point system is used to determine who advances to the next round and, ultimately, who wins the division.
-
-
-# Singles Competition
-
-### 1. Divisions of Play
-**Division D** – Division D at the PAPA World Championships is designed for beginners and novice players. This Division is intended to offer experience to players who are new to competitive pinball. If you are unsure of how PAPA’s tournament process works or do not feel comfortable competing in Divisions A, B, or C, we encourage you to play in Division D. Please note that Division D is heavily restricted to only allow newer competitive players.
-
-**Division C** – Division C at the PAPA World Championships is designed for players with below average league or tournament experience, or anyone who does not feel confidant competing in Divisions A or B. Please note that some restrictions will be applied to help determine who can and cannot enter Division C.
-
-**Division B** – While Division B is frequently labeled as an intermediate division, this designation is relative to the rest of the PAPA World Championships. The level of skill exhibited in this division is higher than the main divisions of the vast majority of tournaments throughout the world. Players with higher than average league or tournament experience who are not yet capable of competing in the main division at the PAPA World Championships play in Division B. Please note that some restrictions will be applied to help determine who can and cannot enter Division B.
-
-**Division A** – The main division of the PAPA World Pinball Championships is the most renowned event in all of competitive pinball, annually deciding the title of PAPA World Pinball Champion. All players of any skill level are welcome to compete in Division A and challenge for the title!
-
-**Classics Division** – PAPA offers three separate Classics events at the World Pinball Championships, featuring machines created prior to 1990. The Classics divisions function as their own self-contained daily tournaments and do not prohibit any player from also competing in any other division.
-
-**Juniors Division** – Only players 15 years old or younger are permitted to play in Juniors. This division offers medals to the winners and is intended to encourage younger players by providing them experience in the PAPA tournament setting. In order to ensure each player has a chance to experience the pressure of a final rounds format, all Juniors players will be entered into the final rounds.
-
-**Seniors Division** – Only players 50 years of age or older are permitted to compete in the Seniors division.
-
-**Womens Division** – Only women will be permitted to compete in the womens division.
-
-**Split-Flipper** – The Split Flipper Division gives competitors the chance to play with a partner. Each player is permitted to control the buttons on one side of the machine cabinet, and they may only do so with a single, designated hand once the ball has been plunged. Players may only switch sides, or hands, between balls, although they are permitted to nudge at all times with their non-designated hand.
-
-Note that the Juniors, Seniors, Womens, and Division D will share the same bank of machines during qualifying and final rounds.
-
-### 2. Skill Division Restrictions
-
-Divisions A, B, C, & D are considered major divisions. Competitors may only play in one major division at a time. A player may choose to move to a higher major division, with Division A being the highest and Division D being the lowest, automatically voiding all tickets in lower divisions (no refunds are provided), but no player may move to a lower division without special permission from tournament directors. Players are not permitted to change divisions after noon on Saturday.
-
-The following restrictions are designed to discourage any player from intentionally competing beneath his or her level of skill:
--  Any player who has placed in the top four of Division B or C at the finals of any previous PAPA tournament must enter the next higher division in their next PAPA tournament. If they fail to qualify in the higher division, they may return to the original lower division in the following year.
--  Any player who has qualified in the Division A or B of any previous PAPA tournament may not enter a lower division in subsequent tournaments except at the discretion of tournament officials.
--  At the discretion of the tournament officials, any player may be required to move to a higher division based on his or her performance or past league or tournament standings.
--  Any player who plays in more than one major division will not be allowed to void their first ticket in the higher division. Non-voided tickets are used by the automated scoring system to establish which division is valid for each player.
--  Players ranked between 1 and 199 in the World Pinball Player Rankings are restricted to Division A.
--  Players ranked between  200  and  599  in the World Pinball Player Rankings are restricted to Division B or higher.
--  Players ranked between  600  and  7499  in the World Pinball Player Rankings are restricted to Division C or higher.
--  Only unranked players, or players ranked higher than  7500  in the World Pinball Player Rankings are permitted to compete in Division D.
--  No player may move to a higher division after noon on Saturday, in order to prevent sudden shifts in standings late in the qualifying process.
-
-### 3. Fees
-
-Registration is not required to play mini-tournaments, to play non-tournament machines, or to simply watch. Each registered player receives an identifying number and this number is used to track his or her subsequent play. Registration also does not include tickets in any division; each ticket is sold for an additional fee. Players may enter in their chosen division(s) as many times as they like. Each day of qualifying will have a published cut-off time, beyond which no new ticket may be played.
-
-The fees for tickets in each division are:
-
-- General Attendee $20 Division A $5 per ticket, or 3 tickets for 
-- Weekend Pass (All 5 Days) $75 Division B $4 per ticket, or 3 tickets for $
-- Evening Pass (After 7pm) $15 Division C $3 per ticket, or 3 tickets for $
-- Kids Pass (6-16) $15 Division D $1 per ticket
-- Kids Under 5 Free! Classics $4 per ticket, or 3 tickets for $
-- Other Divisions $2 per ticket, or 3 tickets for $
-
-No tickets will be refunded at any time, so please plan your timing accordingly with the posted schedule.
-
-
-### 4. Prizes
-
-The tournament features a guaranteed package of prizes. In the event of an overrun beyond expenses, excess revenue will fund the operations of the non-profit Replay Foundation.
-
-**Division A Division B**
-
-- 1st Place 7000 + Trophy 1st Place 2000 + Trophy
-- 2nd Place 2000 + Medal 2nd Place 1000 + Medal
-- 3rd Place 1200 + Medal 3rd Place 600 + Medal
-- 4th Place 800 + Medal 4th Place 400 + Medal
-- 5th-8th Place 400  5th-8th Place 200 
-- 9th-16th Place 250 9th-16th Place 125 
-- 17th-24th Place 200  17th-24th Place 100 
-
-**Division C Division D**
-
-- 1st Place 1000 + Trophy Cup 1st Place 150 + Trophy Cup
-- 2nd Place 500 + Medal 2nd Place 125 + Medal
-- 3rd Place 300 + Medal 3rd Place 100 + Medal
-- 4th Place 200 + Medal 4th Place 75 + Medal
-- 5th-8th Place 100  5th-8th Place 50 
-- 9th-16th Place 75  9th-16th Place 25 
-- 17th-24th Place 50  17th-24th Place 25 
-
-**Classics I, II, & III All Other Divisions**
-
-- 1st Place 1000 + Trophy Cup 1st Place Medal
-- 2nd Place 500 + Medal 2nd Place Medal
-- 3rd Place 300 + Medal 3rd Place Medal
-- 4th Place 200 + Medal 4th Place Medal
-- 5th-8th Place 100 
-- 9th-16th Place 75 
-- 17th-24th Place 50 
-
-**Total prize package $37,000+**
-
-The winner of the A Division will also receive the title ​ **“World Pinball Champion”**. This title remains in effect until the next annual PAPA tournament, or will expire after two years if PAPA tournaments are discontinued.
-
 # Singles Qualifying Rounds
-
-### 1. Purchasing Tickets
-
-Before purchasing any tickets, players must be registered. A registered player may purchase qualifying round tickets in one or more appropriate divisions (at most one skill division, plus special divisions if eligible). Each purchased ticket is specific to one division. Players should keep their registered player number handy for use when purchasing tickets.
-
-Tickets will not be sold for any division beyond the posted time, nor will tickets be sold for the Classics Division except when it is operating. Tickets are non-refundable unless by special permission or as described herein.
-
-### 2. Playing a Ticket
-
-When a competitor is ready to play a qualifying round ticket, he or she approaches the bank of machines designated for the division corresponding to the ticket. The player will select the appropriate machine to be played for the qualifying ticket. The exact number of machines in each bank may vary from division to division and from tournament to tournament. A typical example might be a bank of twelve machines, from which six count toward the overall qualifying score.
-
-Only the highest score achieved by the player on each machine, no matter how many times that player has played that specific machine, will count toward that players score. The player will line up behind the machine he or she wants to play. When it is the player’s turn, he or she will signal for a scorekeeper who will take down the player’s number. At no time may the player begin play on any machine without being instructed to do so by the scorekeeper.  Players may select a different machine for each qualifying ticket.
-
-After playing each game, the player will request that the scorekeeper record his or her score before leaving the machine. It is the player’s responsibility to ensure that the scorekeeper takes down the score, and to verify the score for correctness prior to submission. If a player’s score is recorded incorrectly and the result is beneficial to the player, tournament directors reserve the right to correct the mistake. In all other qualifying situations, the recorded score will stand.
-
-When each ticket has been completed, the player must verify the score with the scorekeeper prior to its submission.
-
-At any point during play or immediately after play has been completed, the player may elect to abandon his or her ticket by notifying the scorekeeper that the ticket in question should be voided. This will void the score for that specific ticket, and the ticket will not be entered into the scoring system except as a “void”, which does not affect scoring in any way. No money will be refunded for a voided ticket.  Players who begin a ticket must remain present to complete the ticket or risk it being voided by a scorekeeper or tournament director.
-
-
-### 3. Scoring
-
-Scores posted on a particular machine are maintained in a ranking. Point values are assigned to each position in this ranking. The overall qualifying score of a competitor is the total of the point values assigned to his or her highest scores on the machines that have been played. Because the rankings will change as new scores are posted on each machine, the overall qualifying score of a competitor may change as the qualifying rounds progress.
-
-It is important to note that only a subset of games in each division count toward a competitor’s overall qualifying score. For instance, in Divisions A, B, & C, a total of twelve games will be available for competitors to play, but only a competitor’s highest scores on six separate machines will count toward their qualifying total. Competitors retain the option of playing all twelve machines during the qualifying period, but it is not necessary in order to advance to the final rounds.
-
-In the event of two or more scores on a machine being exactly tied, the highest point value of the tied positions will be awarded for each such score.
-
-There are no scoring normalizers or other adjustments. Scores cannot be compared across divisions. As the qualifying rounds progress, players may wish to adjust their choice of qualifying machines according to the scores already posted, as well as their personal skills and preferences.
-
-The rank of the player’s result on each machine contributes the following points to the score for that ticket.
-
-**Rank Score**
-
-- 1st gets 100 points
-- 2nd gets 90 points
-- 3rd gets 85 points
-- 4th - 87th gets  84 - 1 points
-  - For example, 5th place gets 83 points 
-
-Tournament officials will provide up-to-date scores and rankings at all times, using a projected screen or television-type display. The up-to-date scores and rankings are also available on the web site at all times.
-
-
-### 4. Scoring Example
-
-**Example:** The games available in qualifying were:
-
-1. Supersonic
-
-2. Space Invaders
-
-3. World Cup Soccer
-
-4. The Shadow
-
-5. Jackbot
-
-6. World Poker Tour
-
-7. Rolling Stones
-
-8. Attack From Mars
-
-9. Centaur
-
-10. Metallica
-
-11. Wizard of Oz
-
-12. Addams Family
-
-Elizabeth played several games multiple times and others zero times. Any scores lower than those listed below did
-not count toward Elizabeth’s final qualifying ranking.
--  Elizabeth’s highest score on Supersonic was third overall, scoring her 85 qualifying points.
--  Elizabeth’s highest score on Space Invaders was 18th, scoring her 70 points (155 total through two
-games).
--  Elizabeth’s highest score on World Cup Soccer was 15th, earning her 73 points (228 through three games).
--  Elizabeth’s highest score on The Shadow was the 1st, earning her 100 points (328 through four games).
--  Elizabeth’s highest score on Jackbot was 5th, earning her 83 additional qualifying points (411 through five
-games).
--  Elizabeth’s highest score on World Poker Tour was 6th, earning her 82 qualifying points (493 through six
-games).
--  Elizabeth’s highest score on Rolling Stones was 22nd, earning her 66 additional qualifying points (This
-ticket was not high enough to be included in Elizabeth’s top six overall scores, and so it does not count
-toward her qualifying total).
--  Elizabeth’s highest score on Attack From Mars was 150th, earning her 0 additional qualifying points (This
-ticket was not high enough to be included in Elizabeth’s top six overall scores, and so it does not count
-toward her qualifying total).
--  Elizabeth’s highest score on Centaur was 22nd, earning her 66 additional qualifying points (This ticket was
-not high enough to be included in Elizabeth’s top six overall scores, and so it does not count toward her
-qualifying total).
--  Elizabeth chose not to play Metallica
--  Elizabeth chose not to play Wizard of Oz
--  Elizabeth chose not to play Addams Family
-In the above example, Elizabeth’s qualifying total will be  493  points, which is the sum of her highest six individual
-machine scores out of the twelve available machines. It is important to note the total number of points needed to
-qualify will change from year to year depending on how players perform on the games and rank against one
-another. In this example, the highest possible qualifying score would be first place on all six games, or 600 points.
+### 1. Generic PAPA tournament scoring
+### 2. Generic HERB tournament scoring
+### 3. PAPA tournament scoring examples
+### 4. HERB tournament scoring examples
+ 
 
 # Singles Final Rounds
 
@@ -379,19 +175,7 @@ As in the previous round, the players with the top two point totals from each gr
 
 In each division, four players advance to the final round. The final round for each division is conducted in the same manner as the semifinal round. The total scores for this round will determine the ordering of winners in each division. All ties in the final round are considered significant.  Unless otherwise determined by tournament officials, the same machines will be used in the final rounds as the previous rounds.
 
-### 9. Winners
-
-All information on collecting prize money can be found at https://papa.org/prizes
-
-### 10. Classics Division
-
-The final rounds of the Classics I, II, and III divisions, as played on Thursday, Friday, and Saturday evenings of the tournament, will utilize the final rounds format of the A/B/C/D divisions.
-
-In the event that a selected machine supports fewer than four players, the players will play multiple one-player or two-player games in turn, with the resulting scores being compared as if a four-player game had been played.  Machines used in Classics may include extra balls and/or five-ball play. These features may be utilized by the player unless otherwise posted.
-
-Winners for each day of Classics competition will receive their awards promptly and do not need to wait until the awards ceremony on Sunday. We appreciate everyone’s understanding of the unique challenges and limitations of using older machines for a competitive tournament. All prize checks will be mailed out no later than  60  days following the event.
-
-### 11. Final Round Tiebreak Procedure
+### 9. Final Round Tiebreak Procedure
 
 Significant ties between players at the end of any final round will be resolved by one tiebreaking game chosen by the highest seed involved in the tie. The high seed is not permitted to choose a game that has already been played by the group in that round. Note that a tie is only significant if it affects whether or not a player will advance toward the final round, or occurs in the final round.
 
@@ -399,116 +183,52 @@ If more than one group of players are tied, the machine is chosen for the group 
 
 In the unlikely event of an exact scoring tie on the tiebreaking game, only those affected players will play another tiebreaking game, on another game chosen in similar fashion, under the same rules.
 
-# Other Competitions
-
-### 1. Mini-Tournaments
-
-Rules and descriptions of all mini-tournaments, if offered, will be posted at the event.
-
-### 2. Target Scores
-
-On any given day of the tournament, tournament officials may choose to post a set of target scores or objectives for certain machines. The first player to reach any target score will be awarded $100 cash. Target scores expire at the end of the day and are only awarded to the first player to exceed the score.
-
-### 3. Door Prizes
-
-Other door prizes and/or random drawings may be offered as tournament officials see fit.
-
 ## Malfunctions and Rulings
 
 ### 1. The Nature of Pinball
 
-The unique charm of pinball lies, in large part, in the physical nature of the game. Unfortunately, this means that
-unusual events and outright malfunctions cannot be prevented, nor can they be perfectly compensated for. PAPA
-attempts to strike a balance between compensating for malfunctions and accepting the physical nature of the
-game.
+The unique charm of pinball lies, in large part, in the physical nature of the game. Unfortunately, this means that unusual events and outright malfunctions cannot be prevented, nor can they be perfectly compensated for. PAPA attempts to strike a balance between compensating for malfunctions and accepting the physical nature of the game.
 
 In certain cases, malfunctions will be dealt with more strictly during final rounds than during qualifying rounds, at
 the discretion of tournament officials.
 
 ### 2. Minor Malfunctions
 
-A minor malfunction is any incident without external cause which deviates from the normal course of gameplay,
-without directly causing a player’s loss of turn and without providing any player a significant advantage over others.
+A minor malfunction is any incident without external cause which deviates from the normal course of gameplay, without directly causing a player’s loss of turn and without providing any player a significant advantage over others.
 
-A minor malfunction is considered part of normal play. Tournament officials shall determine what constitutes a
-significant advantage; in the event that such an advantage is obtained, refer to “Beneficial Malfunctions”.
+A minor malfunction is considered part of normal play. Tournament officials shall determine what constitutes a significant advantage; in the event that such an advantage is obtained, refer to “Beneficial Malfunctions”.
 
-A minor malfunction that occurs repeatedly, to the extent that it is markedly affecting play of the machine, may be
-considered a major malfunction at the sole discretion of tournament officials. If a player receives a tilt warning
-caused inadvertently by another player’s action, please see the “Player Errors” section for how that situation will be
-handled.
+A minor malfunction that occurs repeatedly, to the extent that it is markedly affecting play of the machine, may be considered a major malfunction at the sole discretion of tournament officials. If a player receives a tilt warning caused inadvertently by another player’s action, please see the “Player Errors” section for how that situation will be handled.
 
 ### 3. Major Malfunctions
 
-A major malfunction is a gameplay problem with a machine that results in the premature loss of ball in play in a
-fashion that is not a normal feature of the machine’s gameplay. These may be unusual one-time events, or they
-may indicate a recurring problem that will need to be addressed by technicians.
+A major malfunction is a gameplay problem with a machine that results in the premature loss of ball in play in a fashion that is not a normal feature of the machine’s gameplay. These may be unusual one-time events, or they may indicate a recurring problem that will need to be addressed by technicians.
 
 Examples of major malfunctions include:
--  The bonus count begins while the ball is still in play. This can happen if, for example, the machine loses
-track of how many balls are in the drain trough.
+-  The bonus count begins while the ball is still in play. This can happen if, for example, the machine loses track of how many balls are in the drain trough.
 -  A flipper or other major playfield feature ceases to function.
 
-Note that unrepeated physical failures, such as kickbacks or balls jumping off ramps, balls flying over flippers, or
-balls moonwalking into the outlane following a successful shot do not qualify as major malfunctions. This is the
-physical nature of pinball.
+Note that unrepeated physical failures, such as kickbacks or balls jumping off ramps, balls flying over flippers, or balls moonwalking into the outlane following a successful shot do not qualify as major malfunctions. This is the physical nature of pinball.
 
-Any malfunction that results in the loss of one or more balls during multiball play, without losing all balls so as to
-end the player’s turn, will only be considered a minor malfunction. Loss of any lit feature, running mode, or other
-gameplay specifics, shall not be considered a major malfunction. Loss of Tilt warnings, without loss of ball, shall
-not be considered a major malfunction. If the loss of Tilt warnings was caused by another player, please see the
-“Player Errors” section for how that situation will be handled.
+Any malfunction that results in the loss of one or more balls during multiball play, without losing all balls so as to end the player’s turn, will only be considered a minor malfunction. Loss of any lit feature, running mode, or other gameplay specifics, shall not be considered a major malfunction. Loss of Tilt warnings, without loss of ball, shall not be considered a major malfunction. If the loss of Tilt warnings was caused by another player, please see the “Player Errors” section for how that situation will be handled.
 
-Should a player lose a ball due to a flipper not engaging when the flipper button is pressed, or due to a flipper
-sticking in the held position when the flipper button is pressed, they should immediately notify a tournament
-official. The tournament official will attempt to recreate the problem by pressing the flipper button for up to  3 
-minutes. If the tournament official is able to recreate the problem, this will be treated as a Major Malfunction. If the
-problem is not able to be recreated, this will not be treated as a Major Malfunction and play will continue. If the
-game is in multiball play and one or more balls are lost as a result of this kind of issue, possibly ending multiball but
-not ending the ball in play, this will be considered no worse than a minor malfunction.
+Should a player lose a ball due to a flipper not engaging when the flipper button is pressed, or due to a flipper sticking in the held position when the flipper button is pressed, they should immediately notify a tournament official. The tournament official will attempt to recreate the problem by pressing the flipper button for up to  3  minutes. If the tournament official is able to recreate the problem, this will be treated as a Major Malfunction. If the problem is not able to be recreated, this will not be treated as a Major Malfunction and play will continue. If the game is in multiball play and one or more balls are lost as a result of this kind of issue, possibly ending multiball but not ending the ball in play, this will be considered no worse than a minor malfunction.
 
-When a major malfunction occurs, it is the player’s responsibility to notify the scorekeeper, calmly and promptly.
-The scorekeeper will request advice from a tournament official. If the official(s) agree that the incident is a major
-malfunction, one of the following steps will be taken, in order of priority:
+When a major malfunction occurs, it is the player’s responsibility to notify the scorekeeper, calmly and promptly.  The scorekeeper will request advice from a tournament official. If the official(s) agree that the incident is a major malfunction, one of the following steps will be taken, in order of priority:
 
--  If the machine’s software supports adding balls to a game already in progress, a tournament official will
-add a ball to the game in progress and the affected player will complete their game. All other players will
-continue to play their game as normal, without skipping a ball.
+- If the machine’s software supports adding balls to a game already in progress, a tournament official will add a ball to the game in progress and the affected player will complete their game. All other players will continue to play their game as normal, without skipping a ball.
+- If the major malfunction cannot be fixed without resetting the machine, the player’s score will be recorded and their game will be terminated and restarted. The affected player will continue their remaining balls on the restarted game and their score from the aborted game will be added to their total. For example, if such a malfunction occurs on Ball 2 of a 3-ball game, the player will be given two new balls on a restarted game.  In multiplayer games, all players will receive the same compensation.
+- If the major malfunction can be fixed without resetting the machine, the player will be provided with one additional ball of play at the beginning of a new game, after the current game has been completed. The player’s total score on the additional ball will be added to his or her previous score, and the new game will be terminated.
 
--  If the major malfunction cannot be fixed without resetting the machine, the player’s score will be recorded
-and their game will be terminated and restarted. The affected player will continue their remaining balls on
-the restarted game and their score from the aborted game will be added to their total. For example, if such
-a malfunction occurs on Ball 2 of a 3-ball game, the player will be given two new balls on a restarted game.
-In multiplayer games, all players will receive the same compensation.
+Tournament directors may allow the player to play ball  3  or  5  of the new game, if that player has been denied certain features that are freely awarded by the machine. Examples of this include ‘Double Bonus’ balls on many EM machines, as well as pity Mist Multiball on Dracula should the player have not yet played one. The player’s total score on the additional ball of play will be added to his or her previous score, and the new game will be terminated.  Tournament directors will NEVER attempt to re-establish the state of any game features at the time of the Major or Catastrophic Malfunction.
 
--  If the major malfunction can be fixed without resetting the machine, the player will be provided with one
-additional ball of play at the beginning of a new game, after the current game has been completed. The
-player’s total score on the additional ball will be added to his or her previous score, and the new game will
-be terminated.
+In the event that two or more major malfunctions take place during the same game, the current scores of the player(s) will be recorded, and the game terminated. Once the machine has been repaired, players will be provided additional ball(s) of play on a new game, as necessary to provide the correct number of balls of play for each player. In the event that a recurring major malfunction cannot suitably be repaired, the failure must be treated as a catastrophic malfunction.
 
-Tournament directors may allow the player to play ball  3  or  5  of the new game, if that player has been denied
-certain features that are freely awarded by the machine. Examples of this include ‘Double Bonus’ balls on many EM
-machines, as well as pity Mist Multiball on Dracula should the player have not yet played one. The player’s total
-score on the additional ball of play will be added to his or her previous score, and the new game will be terminated.
-Tournament directors will NEVER attempt to re-establish the state of any game features at the time of the Major or
-Catastrophic Malfunction.
-
-In the event that two or more major malfunctions take place during the same game, the current scores of the
-player(s) will be recorded, and the game terminated. Once the machine has been repaired, players will be provided
-additional ball(s) of play on a new game, as necessary to provide the correct number of balls of play for each
-player. In the event that a recurring major malfunction cannot suitably be repaired, the failure must be treated as a
-catastrophic malfunction.
-
-Under certain specific conditions, a major malfunction may be declined by the player. This must be approved by the
-tournament official, and must not result in a situation which provides an unfair advantage to the player.
+Under certain specific conditions, a major malfunction may be declined by the player. This must be approved by the tournament official, and must not result in a situation which provides an unfair advantage to the player.
 
 ### 4. Known Malfunctions
 
-Any malfunction or unusual behavior that is determined to be relatively minor but unusual enough to merit
-comment may, at the discretion of tournament officials, be posted for players to be aware of before playing the
-affected machine. Players who have played the machine before this notice is provided will not be allowed to replay
-the machine nor to replace it with play of another machine. The occurrence of any posted malfunction will be
-treated as a minor malfunction unless it worsens or interacts with another feature to yield a major malfunction.
+Any malfunction or unusual behavior that is determined to be relatively minor but unusual enough to merit comment may, at the discretion of tournament officials, be posted for players to be aware of before playing the affected machine. Players who have played the machine before this notice is provided will not be allowed to replay the machine nor to replace it with play of another machine. The occurrence of any posted malfunction will be treated as a minor malfunction unless it worsens or interacts with another feature to yield a major malfunction.
 
 
 ### 5. Catastrophic Malfunctions
@@ -553,10 +273,7 @@ If the stuck ball has not been freed after four such searches, or if the machine
 
 A tournament official may initially choose to try to free the stuck ball through judicious nudging, tapping, etc. The player must remain ready to resume play at the machine during this attempt. If actions by the official result in a Tilt, this will be treated as a major malfunction (not the fault of the player). If the official frees the ball but the player does not successfully continue play, this is normal play (the fault of the player). Loss of Tilt warnings due to tournament official nudging is considered normal play.
 
-If the tournament official is unable to free the stuck ball, the machine will be opened, and the stuck ball freed and
-placed either in the plunger lane, or on the upraised flipper of the tournament directors choosing, with the flipper
-button held by the player. In the event this is not possible, the official may select another location or feature where
-the ball can be placed safely while the machine is being closed in order to resume normal play.
+If the tournament official is unable to free the stuck ball, the machine will be opened, and the stuck ball freed and placed either in the plunger lane, or on the upraised flipper of the tournament directors choosing, with the flipper button held by the player. In the event this is not possible, the official may select another location or feature where the ball can be placed safely while the machine is being closed in order to resume normal play.
 
 If more than one ball is stuck, all freed balls will be placed on the flipper(s) of the tournament director’s choice before play resumes, or in the plunger lane if the flippers are inactive while the machine is open.
 
@@ -666,15 +383,7 @@ In order to best suit tournament play, certain machines may be subject to specif
 
 # Player Conduct
 
-### 1. Facility
-
-The PAPA facility is private property and must be treated with respect. PAPA reserves the right to refuse entry to anyone at any time, as well as to remove anyone from the property at any time. Any person(s) may be banned from the property, indefinitely, at the discretion of tournament officials. Banned persons will be prosecuted for trespass if necessary.
-
-The tournament facility and playing areas must be kept clean. Food and drink are ​ _not allowed_ in the playing areas.  In the tournament area, drinks are allowed ​ _only_ for actively qualifying players. Please keep the cap on your bottled drinks when not in use. Spills of any kind should be reported to officials immediately. There is a cafe area adjacent to the tournament where food and drink should be consumed. Trash should be deposited in the provided receptacles. Please do not remove chairs from any area where they have been placed.
-
-All areas inside the building are strictly non-smoking. Smoking is restricted to designated areas outside the building. Weapons and illegal drugs are prohibited on the property. Naturally, any and all types of illegal activity are prohibited as well. The PAPA facility is not a daycare service! Anyone under the age of  16  must be accompanied by a parent or guardian. Violation of any of these rules may lead to ejection from the property.
-
-### 2. Personal Conduct
+### 1. Personal Conduct
 
 All players are expected to conduct themselves in a polite and sensitive manner. Outbursts, especially those including indecent language, are unacceptable. A wide variety of players and observers will be present, including media, and these types of outbursts do nothing to promote pinball as a sport.
 
@@ -682,12 +391,11 @@ Any player who behaves rudely toward any scorekeeper or tournament official may 
 
 Any express or implied threats or actions of violence are grounds for immediate ejection from the facility, and authorities will be contacted. Other possible grounds for ejection include but are not limited to fraud, theft, illegal activity, harrassment, inappropriate behavior, public drunkenness, etc.  Any person ejected from the facility is banned and may not return to the property. Banned persons will be prosecuted for trespass if necessary.
 
-### 3. Abuse of Machines
+### 2. Abuse of Machines
 
 Tilt sensors are employed to determine what constitutes unduly rough handling of each machine, within the parameters of normal play. Abusive handling such as punching, kicking, lifting, tipping, or rocking a machine, or hitting the glass in any way, is grounds for a warning and possible disqualification of game or ejection from the tournament, at the discretion of tournament officials.
 
-
-### 4. Interference, Collusion, and Cheating
+### 3. Interference, Collusion, and Cheating
 
 Any player who intentionally interferes with tournament play or otherwise disrupts the tournament setting will be warned and/or ejected from the tournament, at the discretion of tournament officials.
 
@@ -695,7 +403,7 @@ Any form of cheating, including game restarts, tampering with games, tampering w
 
 Any collaborative effort between players in an attempt to unfairly affect the outcome of the competition, or to “lock out” a third player, or to otherwise refrain from making the best possible competitive effort on each and every game played, will be looked upon very poorly by tournament officials, and may result in disciplinary action, including disqualification and/or ejection from the tournament.
 
-### 5. Intentional Delays
+### 4. Intentional Delays
 
 No player may delay their game for more than  60  seconds, except to await a ruling or resolution of an environmental inconvenience. Environmental inconvenience is defined as any condition which can reasonably be expected to be resolved quickly, such as unusual noise, lighting problems other than sunlight, or repairs to an immediately adjacent machine. No player may wait for more that  60  seconds from the end of the previous player’s turn to begin their turn. The first violation as witnessed by a Tournament Director will result in a warning. A second violation and all subsequent violations of this rule during a tournament will result in a score of zero on that game for the player.
 
@@ -703,29 +411,15 @@ Intentional delay is defined as time when the player is intentionally making no 
 
 A player may not intentionally cause a ball search in order to activate any feature of the game. A player is permitted to wait a reasonable amount of time, as determined by the tournament director, for a tilt mechanism to settle.
 
-### 6. Absences
+### 5. Absences
 
 During qualifying rounds, any player who is absent at the start of the game will have his or her name announced by the scorekeeper three times. If the player in question remains absent at that time, the next player in the queue will be moved forward. During final rounds or any qualifying format that involves group play, if a player is absent when it is his or her turn to play, he or she will be awarded three minutes to return before the game in question will be recorded as a zero. A second three-minute absence by any player in the final rounds will result in their elimination from the tournament. Any player who has an emergency should notify a tournament official so that accommodations may be made. Should a player have to permanently leave the tournament for any reason prior to its conclusion, he or she will not be permitted to pre-play any games, and all scores for any remaining games will be recorded as zero points.
 
 Note that an absence at the beginning of final rounds results in the player not being part of the final rounds at all.
 
-
-### 7. Death Saves, Bangbacks, etc
+### 6. Death Saves, Bangbacks, etc
 
 Techniques known as “Death Saves” and “Bangbacks” are sometimes employed by certain advanced players.  Because the effectiveness of these techniques varies from machine to machine, and because of the risk of injury to either player or machine, these techniques are banned from tournament play. In the event that a drained ball bounces back into play without deliberate player action, such as in the case of a “lazarus”, this is considered the mechanical nature of pinball and the ball may be played. If this situation occurs repeatedly, and there is question as to whether the lazarus ball was naturally occurring or induced by the player, tournament directors may end the game in progress and award a score of zero.
-
-### 8. Wagering or Gambling
-
-Please note that gambling is illegal in our venue and the tournament does not endorse, condone, nor support wagering between players. We also feel that pinball is at least 75% skill-based, making any wagering at best ill-advised, in addition to being illegal.
-
-### 9. Internet Use
-
-The facility provides access to Internet kiosks as well as a wireless Internet access service, at no charge. This is provided to our players and guests as a courtesy and we expect proper behavior. Any abuse or misuse of the service may result in ejection from the tournament and/or facility.
-
-### 10. Accommodating Disabilities
-
-Tournament officials will make every reasonable attempt to accommodate genuine disabilities, and may also elect, on a case-by-case basis, to ameliorate injuries or other hardships. Players who are not fluent in English are allowed to utilize a bilingual assistant in order to understand these rules, official rulings, and so forth.
-
 
 # Miscellaneous
 
