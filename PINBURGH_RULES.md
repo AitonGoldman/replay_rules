@@ -3,7 +3,7 @@
 # Pinburgh Rules
 
 The Pinburgh Rules are tournament specific alterations built upon PAPA’s larger competitive ruleset
-found ​here​. `Should list and link to the actual URL or end after "competitive ruleset."` Any situations not addressed in the Pinburgh rules default to the main set of PAPA
+found ​[here](https://papa.org/wp-content/uploads/Professional-Amateur-Pinball-Association-Complete-Competition-Rules-July-20.pdf)​. Any situations not addressed in the Pinburgh rules default to the main set of PAPA
 Competition Rules. Any tournaments, leagues, or organizations wishing to copy our rules for their own
 purposes should adopt the primary PAPA ruleset first. All organizations copying our rules are reminded
 that they are licensed under the Creative Commons, which requires including a reference link back to the
@@ -11,14 +11,10 @@ original source: PAPA.org.
 Pinburgh is the Match Play Championship pinball tournament operated by the Professional and Amateur
 Pinball Association (PAPA, a service mark of Replay Foundation) and held at Replay FX. This document
 specifies the official operating rules and regulations of this tournament.
-The event coordinators for Pinburgh are Doug Polka, Bowen Kerins, Kevin Martin, Mark Steinman, and
-Elizabeth Cromwell. `Edit this: "the event coordinators are Doug Polka, Kevin Martin, Aiton Goldman, Pete Hendricks, and Brett Berkman."` Event coordinators organize volunteers, handle malfunctions and rulings, delegate
+The event coordinators for Pinburgh are Doug Polka, Kevin Martin, Aiton Goldman, Pete Hendricks, and Brett Berkman. Event coordinators organize volunteers, handle malfunctions and rulings, delegate
 responsibilities and authority, and otherwise work to ensure the smooth operation of the tournament.
 Event coordinators and designated officials may not participate in the tournament.
-
-`Move the following here from ## II. OVERALL COMPETITION / ### 1. Divisions of Play`
-
-`All players, winning or not, grant PAPA, Replay FX LLC, Replay Foundation, and any and all other event
+All players, winning or not, grant PAPA, Replay FX LLC, Replay Foundation, and any and all other event
 sponsors and organizers, individual and collective, the right to use their names, scores, and likenesses for
 the purpose of promoting this tournament as well as other pinball-related events. This right is
 transferable without restriction.`
@@ -104,7 +100,7 @@ Pinburgh is Match Play For All: three days of match play pinball competition, wi
 until the third day. All players compete in groups on Day 1, with the quality of their play determining
 whether they go into Division A, B, C, D or E for Day 2. All players compete in groups on Day 2 within their
 division, with the quality of their play determining whether they advance to finals. Qualifiers compete for
-the division prizes on Day 3. ~~More than 160 prizes will be awarded, including $15,000 to the champion.~~
+the division prizes on Day 3.
 
 
 ## II. OVERALL COMPETITION
@@ -114,14 +110,8 @@ the division prizes on Day 3. ~~More than 160 prizes will be awarded, including 
 At the beginning of play, all players compete together, without divisions. At the end of play on Day 1, skill
 divisions are assigned according to rankings and restrictions. Division assignments are based on a
 player’s win/loss record and certain skill division restrictions (see below).
-~~All players, winning or not, grant PAPA, Replay FX LLC, Replay Foundation, and any and all other event
-sponsors and organizers, individual and collective, the right to use their names, scores, and likenesses for
-the purpose of promoting this tournament as well as other pinball-related events. This right is
-transferable without restriction.~~ `Move to introduction as indicated above.`
 
 ### 2. Skill Division Restrictions
-
-`This entire section needs to be rewritten to use updated skill division restrictions.`
 
 **Division A Restrictions**
 ● Qualified in Division A of PAPA 17-
@@ -153,15 +143,16 @@ a result of strong play on Day 1.
 
 ### 3. Schedule
 
-The `full` tournament schedule will be posted on [http://r​eplayfx.org/schedule.](http://r​eplayfx.org/schedule.)
+The full tournament schedule will be posted on [http://r​eplayfx.org/schedule.](http://r​eplayfx.org/schedule.)
 
-~~### 4. Fees~~
-
-~~A one-time $120 registration fee is required of each player who wishes to compete at Pinburgh, in
-addition to admission to Replay FX.~~ `Fees are specific to the ticketing, and not the rules. Move the following paragraph up to the schedule even if you keep the fees in, since IT IS A TIME OF THE SCHEDULE AND NOT A FEE.`
 All players must check in by 9:30 am on Day 1. Players who are not checked in by 9:30 am will be
 removed from the tournament, and alternate players from the waitlist may be added. Online
 pre-registration is required.
+
+All players must be onsite for the start of Session 1 at 10 am after checking in by 9:30 am.  The [Playing a Session]() section lists the penalties for being late for a session.  
+
+There will be a 90-minute break for dinner after Session 3, with Session 4 starting at 6:15 pm. 
+
 
 ### 5. Prizes
 
@@ -175,14 +166,14 @@ The guaranteed cash prize package for Pinburgh is as follows:
 **9th – 16th** $700 $500 $350 $
 **17th – 28th** $500 $350 $250 $
 **29th – 40th** $350 $250 $200 $
-~~**Top Qualifier** $500 $250 $150 $~~ `Remove Top Qualifier award and put money in the E Division.`
+**Top Qualifier** $500 $250 $150 $
 **Total Prize Money** $100,
 The champion also wins the Pinburgh Cup! Other players who make the final four in Divisions A through E
-receive plaques. `Plaques or medals?`
+receive plaques.
 Any player with a perfect 12-0 record in any session will receive a commemorative medal. Medals can be
-claimed at the tournament desk on Saturday. `afternoon. Saturday afternoon.`
+claimed at the tournament desk on Saturday afternoon.
 
-##### All information on collecting prize winnings can be found at: https://papa.org/prizes `Change URL to use https://replayfx.org/prizes `
+##### All information on collecting prize winnings can be found at: https://replayfx.org/prizes
 
 
 ## III. DAY 1: FULL FIELD PLAY
@@ -190,10 +181,8 @@ claimed at the tournament desk on Saturday. `afternoon. Saturday afternoon.`
 ### 1. Day 1 Format
 
 Day 1’s match play will be a series of five sessions of multiplayer pinball, with multiple games played per
-session. In each session, opponents are determined based on each player’s win-loss ~~rank.~~ `record.` At the end of
+session. In each session, opponents are determined based on each player’s win-loss record. At the end of
 the five sessions, players will advance to their respective skill-based divisions.
-~~All players must be onsite for the start of Session 1 at 10 am after checking in by 9:30 am. There will be a
-90-minute break for dinner after Session 3, with Session 4 starting at 6:15 pm.~~ `First, this is scheduling and not a format. Second, it doesn't say what the consequences are for not being on time at the start of Session 1. It needs to be moved and clarified.`
 
 ### 2. Playing a Session
 
@@ -210,9 +199,9 @@ will be removed from the group, disqualified from the session, and will automati
 for the session.
 Practice or warm-up time is not allowed for anyone during or between sessions. The only designated
 practice time is on the morning of Day 1, as listed in the Pinburgh schedule. The best-seeded player within
-each group (the first player listed on the scoresheet) chooses ~~the~~ their order of play for the first game. The
+each group (the first player listed on the scoresheet) chooses their order of play for the first game. The
 remaining players choose their order of play, in descending order from best to worst seeding. For
-subsequent games, the last-place finisher of the previous game chooses ~~the~~ their order of play for the next
+subsequent games, the last-place finisher of the previous game chooses their order of play for the next
 game. The remaining players choose their order of play, in ascending order of finish in the previous game
 (3rd place, then 2nd place, then 1st place).
 All players will play their games and record the results. Exact score ties between two or more players will
@@ -257,78 +246,74 @@ records will be broken by random draw.
 
 ### 5. Group Assignment
 
-All players are assigned opponents for each session based on seeding. In each session, the field is
-“tiered” for assignment into groups, using predetermined tier sizes. Within each tier, groups are created
-generally using the best available seed, the worst available seed, and the two available seeds that are
-closest to the middle of the tier. The last tier in each session may have fewer players.
+The goal of group assignment is to group players with similar rankings.  In order to do this, group assignment for each session is a multi step process.  The first step is to split all players into "tiers" based on their record from previous sessions.  
+The highest tier contains the players with the best records, while the lowest tier contains the players with the worst records.
+As the day progresses, the tiers are refined to achieve the goal of grouping players with similar rankings.  
+The following describes how the tiers are refined given the maximum of 840 players playing : 
+
+__*Session 1 :*__  
+- tier 1 - the tier contains all 840 players
+
+__*Session 2 :*__
+- tier 1 - contains players ranked 1-300
+- tier 2 - contains players ranker 301-600
+- tier 3 - contains players ranked 601-840
+
+__*Session 3 :*__
+- tier 1 - contains players ranked 1-128
+- tier 2 - contains players ranker 129-256
+- tier 3 - contains players ranked 257-384
+- ...
+- tier 7 - contains players ranked 768-840
+
+__*Session 4 :*__
+- tier 1 - contains players ranked 1-64
+- tier 2 - contains players ranker 65-128
+- tier 3 - contains players ranked 66-192
+- ...
+- tier 14 - contains players ranked 833-840
+
+__*Session 5 :*__
+- tier 1 - contains players ranked 1-32
+- tier 2 - contains players ranker 33-64
+- tier 3 - contains players ranked 65-96
+- ...
+- tier 27 - contains players ranked 833-840
+
+
+Within each tier,  groups of 4 players are created.   
+The first group is created using the best available seed in the tier, 
+the worst available seed in the tier, 
+and the two seeds that are closest to the middle of the tier.   
+Given that the best and worst and middle seeds for the tier are now in group one, the second group is created using the best *available* seed in the tier and 
+the worst *available* seed in the tier and   
+and the two *available* seeds that are closest to the middle of the tier.  
+
+In some cases, groups of three will be created instead of groups of 4.
+
 During Session 1, the entire field will play as a single tier, and the arrangement of worst-seeded players in
-each group will be reversed. ~~The general description of tiers for Day 1 is given below, along with the
-specific assignments for a full field of 840 players.
-With 840 players, ​ **the Session 1 groups would be:**
-1-420-421-631, 2-419-422-632, 3-418-423-633, ..., 210-211-630-~~
+each group will be reversed. 
 
-
-~~**During Session 2, each tier will have 300 players and 75 groups:**
-1-150-151-300, 2-149-152-299, 3-148-153-298, ..., 75-76-225-
-301-450-451-600, 302-449-452-599, 303-448-453-598, ..., 375-376-525-
-601-720-721-840, 602-719-722-839, 603-718-723-838, ..., 660-661-780-
-**During Session 3, each tier will have 128 players and 32 groups:**
-1-64-65-128, 2-63-66-127, 3-62-67-126, ..., 32-33-96-
-129-192-193-256, 130-191-194-255, 131-190-195-254, ..., 160-161-224-
-....
-769-804-805-840, 770-803-806-839, 771-802-807-838, ..., 786-787-822-
-**During Session 4, each tier will have 64 players and 16 groups:**
-1-32-33-64, 2-31-34-63, 3-30-35-62, ..., 16-17-48-
-65-96-97-128, 66-95-98-127, 67-94-99-126, ..., 80-81-112-
-...
-769-800-801-832, 770-799-802-831, 771-798-803-830, ..., 784-785-816-
-833-836-837-840, 834-835-838-
-**During Session 5, each tier will have 32 players and 8 groups:**
-1-16-17-32, 2-15-18-31, 3-14-19-30, ..., 8-9-24-
-33-48-49-64, 34-47-50-63, 35-46-51-62, ..., 40-41-56-
-...
-801-816-817-832, 802-815-818-831, 803-814-819-830, ..., 808-809-824-
-833-836-837-840, 834-835-838-
-In the case of less than 840 players, there may be up to 3 three-player groups in each session, within the
+In the case of less than maximum number of players playing, there may be up to 3 three-player groups in each session, within the
 lowest tier. These groups are the ones that would normally involve the worst-seeded players in each
-session. For example, if there are 838 players, two three-player groups will occur in each session, and they
-will be the ones where normally seeds #839 and #840 would play.
+session. 
+
 If at any time, the number of players in the lowest tier would be exactly 1, 2, or 5, those players will instead
-be added to the next-lowest tier. In those cases, tiers will be rearranged to ensure that each tier has at
-least three players. Whenever the predetermined tier size is greater than 8, no tier of 4 or fewer players
-will be created. Those players will instead be assigned to the lowest tier.~~
+be added to the next-highest tier.  No tier of 4 or fewer players will be created. Those players will instead be assigned to the lowest tier.
 
-`For the love of fuck, please please please get rid of everything after the first paragraph. It’s confusing to newer players (and a lot of the older ones). It explains a computational algorithm and is not specifically relevant to the rules of the tournament itself. And, as though we didn’t fight this battle last year, the examples use a number of players that is constantly evolving: `
-
-
-`“In the case of less than 840 players, there may be up to 3 three-player groups in each session, within the lowest tier. These groups are the ones that would normally involve the worst-seeded players in each session. For example, if there are 838 players, two three-player groups will occur in each session, and they will be the ones where normally seeds #839 and #840 would play.”`
-
-
-`Are you going to redo an entire page of seeding examples every single year when we expand? Who will be in charge of remembering to do that?`
 
 ### 6. Division Assignment
 
 At the end of Session 5, players will be assigned into their respective divisions.
-One-fifth of the field of players will qualify for Division A, rounded up. ~~For example, if there are 838 players
-in the tournament, then 168 players will qualify for Division A.~~ `For simplifaction sake and to prevent having to change this every single year, this example should be rewritten to use a 100 person field. "At the end of Session 5, players will be assigned into their respective divisions. One-fifth of the field of players will qualify for Division A, rounded up. For example, if there are 100 players in the tournaments then 20 players will qualify for Division A."` Any player with an Division A restriction will
-be forced into Division A regardless of their win-loss record. Division A will then be populated with the
-players with the best win-loss records on Day 1. In case of ties, players with the higher record after
-Session 4 will play in Division A. Further ties will be broken by higher record after Session 3, after Session
+One-fifth of the field of players will qualify for each Division, rounded up. For example, if there are 100 players
+in the tournament, then 20 players will qualify for Division A. 
+Any player with a division restriction will
+be forced into that division regardless of their win-loss record. For example, an A Division restriction means the player will be forced to play in A Division.
+In case of ties, players with the higher record after
+Session 4 will be placed in the higher ranked division. Further ties will be broken by higher record after Session 3, after Session
 2, after Session 1, and by initial seeding.
 
-
-One-fifth of the field of players will then qualify for Division B, rounded up. Any player with a Division B
-restriction, who did not qualify for Division A, will be forced into Division B. Division B will then be
-populated with the players with the best win-loss records on Day 1 among players who did not qualify for
-Division A. Ties will be broken using the same method as Division A.
-One-fifth of the field of players will then qualify for Division C, rounded up. Any player with a Division C
-restriction, who did not qualify for Division A or B, will be forced into Division C. Division C will then be
-populated with the players with the best win-loss records on Day 1 among players who did not qualify for
-Division A or B. Ties will be broken using the same method as Division A.
-One-fifth of the field of players will then qualify for Division D, rounded up. Any player with a Division D
-restriction, who did not qualify for Division A, B, or C, will be forced into Division D. Division D will then be
-populated with the players with the best win-loss records on Day 1 among players who did not qualify for
-Division A, B, or C. Ties will be broken using the same method as Division A. `Do we really need 3 more paragraphs to explicitly spell this out, or can it be simplified as "One-fifth of the field of players will then qualify for Division B, rounded up. Division B will then be populated with players with the best win-loss records on Day 1 among players who did not qualify for Division A. The same holds true for Division C, Division D, etc.. Ties will be broken using the same method as Division A.`
+With players ordered by ranking, A division will contain the 1st 1/5 of players, B division will contain the next 1/5 of players, and so on.  
 
 ##### All remaining players are assigned to Division E.
 
@@ -343,7 +328,6 @@ on a player’s win-loss rank. At the end of the five sessions, top finishers wi
 In Division E, players’ records from Day 1 will be disregarded during Day 2’s play. All players in Division E
 will start Day 2 with a 0-0 record. In all other divisions, players’ records will not be wiped clean, and
 win-loss records from Day 1 are carried over.
-~~All players must be onsite for Player Roll Call at 9:45 am.~~ `This is not a thing. It has never been a thing.` ~~There will be a 90-minute break for dinner after Session 8, with Session 9 starting at 6:15 pm.~~ `This is scheduling and can be found at the official schedule, and does not need to be in the rule book.`
 
 ### 2. Playing a Session
 
@@ -365,44 +349,39 @@ by random draw.` `Is this correct? Above, we just went through a whole thing abo
 
 ### 5. Group Assignment
 
-In each session, the field will be “tiered” for assignment into groups, using predetermined tier sizes, in the
-same fashion as Day 1’s sessions. Three-player matches will appear only within the lowest tier.
-~~The general description of tiers is given below, along with the specific assignments for a full field of 168
-players per division.
+Group assignment on day 2 will follow the same process as day 1, but each division will have separate tiers.  
+Assuming that there are a maximum of 840 players, the following describes the tiers per session :  
 
 
-~~**During Session 6, the first tier will have 96 players and 24 groups, and the second tier will have all
-remaining players:**
-1-48-49-96, 2-47-50-95, 3-46-51-94, ..., 24-25-72-
-97-132-133-168, 98-131-134-167, 99-130-135-166, ..., 114-115-150-
-**During Session 7, each tier will have 48 players and 12 groups:**
-1-24-25-48, 2-23-26-47, 3-22-27-46, ..., 12-13-36-
-49-72-73-96, 50-71-74-95, ..., 60-61-84-
-...
-145-156-157-168, 146-155-158-167, ..., 150-151-162-
-**During Session 8, each tier will have 16 players and 4 groups:**
-1-8-9-16, 2-7-10-15, 3-6-11-14, 4-5-12-
-17-24-25-32, 18-23-26-31, 19-22-27-30, 20-21-28-
-...
-161-164-165-168, 162-163-166-
-**During Session 9, each tier will have 8 players and 2 groups:**
-1-4-5-8, 2-3-6-
-9-12-13-16, 10-11-14-
-17-20-21-24, 18-19-22-
-...
-161-164-165-168, 162-163-166-
-**During Session 10, the top tier will have 64 players and 16 groups. Below that, each tier will have 4
-players:**
-1-32-33-64, 2-31-34-63, 3-30-35-62, ..., 16-17-48-
-65-66-67-
-69-70-71-
-73-74-75-
-...
-165-166-167-
-There may be up to 3 three-player groups in each division during each session. These groups are the ones
-that would normally involve the worst-seeded players in each session. For example, if there are 166
-players in Division A, 2 three-player groups will occur in each session, and they will be the ones where
-normally #167 and #168 would play.~~ `Burn it with fire.`
+__*Session 6 :*__  
+- tier 1 - contains players ranked 1-96 in the division
+- tier 2 - contains players ranked 97-168 in the division
+
+__*Session 7 :*__
+- tier 1 - contains players ranked 1-48 in the division
+- tier 2 - contains players ranked 49-96 in the division
+- tier 3 - contains players ranked 97-144 in the division
+- tier 4 - contains players ranked 145-168 in the division
+
+__*Session 8 :*__
+- tier 1 - contains players ranked 1-16 in the division
+- tier 2 - contains players ranked 17-32 in the division
+- tier 3 - contains players ranked 33-48 in the division
+- ...
+- tier 11 - contains players ranked 161-168 in the division
+
+__*Session 9 :*__
+- tier 1 - contains players ranked 1-8 in the division
+- tier 2 - contains players ranked 9-16 in the division
+- tier 3 - contains players ranked 17-24 in the division
+- ...
+- tier 21 - contains players ranked 161-168 in the division
+
+__*Session 10 :*__
+- tier 1 - contains players ranked 1-64 in the division
+- tier 2 - contains players ranked 65-128 in the division
+- tier 3 - contains players ranked 129-168 in the division
+
 
 ### 6. Qualifying for Finals
 
@@ -425,8 +404,7 @@ No tiebreaking games will be held at the end of Session 10.
 
 ### 1. Final Rounds
 
-Final rounds employ the same format as session play. All finalists, including finalists with byes, should
-check in before 9 am and must check in before 9:10 am. `Double check this with the ReplayFX schedule, and adjust as necessary. Last year we had players frantic they wouldn't check in on time because the doors weren't open, and they were let in early. This meant the desk was not ready for them yet, because the desk didn't expect people before the doors opened.` Any player who is not checked in will be
+Final rounds employ the same format as session play. All finalists, including finalists with byes,  must check in before the first round.  The deadline to check in is 50 minutes before the first round starts.  Any player who is not checked in will be
 disqualified. Players will be moved up in rank, and alternate players will take the worst-seeded positions in
 the finals.
 Players in final rounds will be placed in four-player groups and play a four-game session in the same
@@ -448,35 +426,36 @@ player having the choice of play order. In case of a tie between the first and s
 group, both players advance and a tiebreaker is not required.
 No warm-up or practice time will be provided to any finalist on any machine.
 The #1-#4 seeds pass through to the quarterfinals, and the #5-16 seeds pass through to the second
-round. The first round of finals will start with the following six groups: `Do we really need this here, or is it like the seeding for group assignment, and can be posted elsewhere?`
-First Round, Group 1: #17, #28, #29, #
-First Round, Group 2: #18, #27, #30, #
-First Round, Group 3: #19, #26, #31, #
-First Round, Group 4: #20, #25, #32, #
-First Round, Group 5: #21, #24, #33, #
-First Round, Group 6: #22, #23, #34, #
-
+round. For the first round of finals the players will be split into 6 groups based on the following: 
+First Round, Group 1: #17 seed, #28 seed, #29 seed, #40 seed
+First Round, Group 2: #18 seed, #27 seed, #30 seed, #39 seed
+First Round, Group 3: #19 seed, #26 seed, #31 seed, #38 seed
+First Round, Group 4: #20 seed, #25 seed, #32 seed, #37 seed
+First Round, Group 5: #21 seed, #24 seed, #33 seed, #36 seed
+First Round, Group 6: #22 seed, #23 seed, #34 seed, #35 seed
 
 Two players from each group, for a total of twelve players, will advance to the second round to join the
-#5-#16 seeds. These players are re-ranked according to their qualifying seeding, and assigned to groups
-as shown here:
-Second Round, Group 1: #5, #16, #17, #
-Second Round, Group 2: #6, #15, #18, #
-Second Round, Group 3: #7, #14, #19, #
-Second Round, Group 4: #8, #13, #20, #
-Second Round, Group 5: #9, #12, #21, #
-Second Round, Group 6: #10, #11, #22, #
+#5-#16 seeds. All 26 players will be re-ranked according to their qualifying seeding, and split into 6 groups based on the following:
+Second Round, Group 1: #5 rank, #16 rank, #17 rank, #28 rank
+Second Round, Group 2: #6 rank, #15 rank, #18 rank, #27 rank
+Second Round, Group 3: #7 rank, #14 rank, #19 rank, #26 rank
+Second Round, Group 4: #8 rank, #13 rank, #20 rank, #25 rank
+Second Round, Group 5: #9 rank, #12 rank, #21 rank, #24 rank
+Second Round, Group 6: #10 rank, #11 rank, #22 rank, #23 rank
+
 Two players from each group, for a total of twelve players, will advance to quarterfinal rounds to join the
-#1-#4 seeds. These players are re-ranked according to their qualifying seeding, and assigned to groups
+#1-#4 seeds. All 16 players are re-ranked according to their qualifying seeding, and split into 4 groups based on the following:
 as shown here:
-Quarterfinals, Group 1: #1, #8, #9, #
-Quarterfinals, Group 2: #2, #7, #10, #
-Quarterfinals, Group 3: #3, #6, #11, #
-Quarterfinals, Group 4: #4, #5, #12, #
-Two players from each group, for a total of eight players, will advance to semifinal rounds. These players
-are re-ranked according to their qualifying seeding, and assigned to groups as shown here:
-Semifinals, Group 1: #1, #4, #5, #
-Semifinals, Group 2: #2, #3, #6, #
+Quarterfinals, Group 1: #1 rank, #8 rank, #9 rank, #16 rank
+Quarterfinals, Group 2: #2 rank, #7 rank, #10 rank, #17 rank
+Quarterfinals, Group 3: #3 rank, #6 rank, #11 rank, #18 rank
+Quarterfinals, Group 4: #4 rank, #5 rank, #12 rank, #19 rank
+
+Two players from each group, for a total of eight players, will advance to semifinal rounds. All 8 players
+are re-ranked according to their qualifying seeding, and split into 2  groups as based on the following:
+Semifinals, Group 1: #1 rank, #4 rank, #5 rank, #8 rank
+Semifinals, Group 2: #2 rank, #3 rank, #6 rank, #7 rank
+
 Two players from each group, for a total of four players, will advance to the final round.
 
 
@@ -505,7 +484,7 @@ A significant beneficial malfunction occurs if a machine gives an unearned multi
 balls, placing two balls in the plunger lane, or kicking additional balls into play when not an intended part
 of gameplay. In these situations, the player must immediately drain all additional balls, or trap the balls so
 that a tournament coordinator can do so. Any player who intentionally plays an unearned multiball will be
-given a score of zero by tournament coordinators. `This paragraph lists various ways a player is given unearned extra balls as the ONLY way a significant beneficial malfunction can occur. The larger PAPA rules on Beneficial Malfunctions is larger and includes examples like "a jackpot switch that registers when a different target is hit, or a valuable switch that scores once without the ball contacting it." This needs to be rewritten to be more in line with the PAPA rules, or otherwise make clear that additional balls are not the ONLY possible beneficial malfunction. If they are the only SIGNIFICANT beneficial malfunction, that point would benefit from having lesser examples, as well.`
+given a score of zero by tournament coordinators. `
 If a beneficial malfunction has significantly increased the score of any player(s), affected players’ scores
 will be void, as described in “Catastrophic Malfunctions”. Tournament coordinators will determine
 whether it is appropriate to continue play on the same machine or declare it Disabled.
@@ -564,10 +543,10 @@ recognizing that other groups will have begun play and should not be unduly disr
 will continue as 3-player groups.
 Under extraordinary circumstances due to multiple player absences, a 2-player group or even a 1-player
 group may be forced to play. In the event of a 2-player group, four machines will be played and the record
-will be tripled, yielding the standard point opportunity to each player. `"In the event of a 1-player group, the
+will be tripled, yielding the standard point opportunity to each player. In the event of a 1-player group, the
 player will be assigned to “shadow” an existing 4-player group and play three of the same machines. Wins
 and losses will be assigned for that player, competing against 4 opponents in each game, but
-corresponding wins and losses will not accrue to players in the 4-player group."` `This makes absolutely no sense. 3 machines instead of four? How do you assign points in what is essentially a 5 player group?`
+corresponding wins and losses will not accrue to players in the 4-player group. 
 If a player who was present initially cannot be found during the play of a group, tournament officials must
 be notified promptly. That player will be allowed no more than 3 minutes to return. If he or she does not
 return, that player will receive a score of zero for the game. Each ball for that player will be plunged and
