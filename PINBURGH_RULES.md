@@ -204,21 +204,21 @@ remaining players choose their order of play, in descending order from best to w
 subsequent games, the last-place finisher of the previous game chooses their order of play for the next
 game. The remaining players choose their order of play, in ascending order of finish in the previous game
 (3rd place, then 2nd place, then 1st place).
-All players will play their games and record the results. Exact score ties between two or more players will
-be resolved with a one-ball playoff on the same game. When all four games have been completed by a
+All players will play their games and record the results. 
+In any scenario where a player has already defeated his or her opponents
+and still has one ball left to play, that ball should be plunged but not played, as it cannot affect the results.
+A score must be recorded for the winning player. A player refusing to end their game under these
+circumstances may be given a yellow or red card by tournament officials.
+Exact score ties between two or more players will be resolved with a one-ball playoff on the same game.   
+
+When all four games have been completed by a
 group, each player will have a win-loss record from the session. The best possible win-loss record for a
 session is 12-0 and the worst is 0-12. In three-player groups, win-loss records will be multiplied by a factor
 of 1.5. In the unlikely event of a two-player group, win-loss records will be multiplied by a factor of 3.
 A group must complete and sign its score sheet for the session, then return it to the Pinburgh tournament
 desk. While it is not necessary for the entire group to be present when returning a score sheet, delivery by
 more than one player is recommended. Once completed and signed, all score sheets are final. Please
-check the score sheet carefully before signing. Prompt entry of score sheets is essential to the timely
-
-
-progression of the tournament. ~~In any scenario where a player has already defeated his or her opponents
-and still has one ball left to play, that ball should be plunged but not played, as it cannot affect the results.
-A score must be recorded for the winning player. A player refusing to end their game under these
-circumstances may be given a yellow or red card by tournament officials.~~ `I'm not sure why this is in here, under a discussion of score sheets.`
+check the score sheet carefully before signing. Prompt entry of score sheets is essential to the timely progression of the tournament. 
 Unsigned score sheets will be processed normally; if there is any dispute that necessitates a ruling, it
 must be brought to the attention of tournament coordinators immediately. Once seedings have been
 published for the next session, no changes can be made to prior recorded results, except to reverse any
@@ -389,11 +389,11 @@ At the end of Session 10, qualifiers in Division E will be determined by the bes
 Sessions 6-10. In all other divisions, qualifiers will be determined by the best win-loss records from
 Sessions 1-10.
 The top 40 players in each division will qualify for finals. The top 16 players in each division will receive a
-bye. The top 4 players in each division will receive two byes (directly to the quarterfinals). ~~The #1 player in
-each division wins the top qualifier prize.~~ `Nope. Remove.`
+bye. The top 4 players in each division will receive two byes (directly to the quarterfinals). The #1 player in
+each division wins the top qualifier prize.
 
 
-Ties for any seeded position, including the qualifying and bye cutoffs ~~and the top qualifier~~, will be broken
+Ties for any seeded position, including the qualifying and bye cutoffs and the top qualifier, will be broken
 by the tied players’ cumulative win-loss records after Session 9, then cumulative win-loss records after
 Session 8, and previous sessions’ cumulative records as needed. In the unlikely event that players had the
 same win-loss record through all ten sessions, final position will be determined by the original seeding of the tournament. 
