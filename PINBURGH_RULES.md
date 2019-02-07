@@ -11,8 +11,7 @@ original source: PAPA.org.
 Pinburgh is the Match Play Championship pinball tournament operated by the Professional and Amateur
 Pinball Association (PAPA, a service mark of Replay Foundation) and held at Replay FX. This document
 specifies the official operating rules and regulations of this tournament.
-The event coordinators for Pinburgh are Doug Polka, Kevin Martin, Aiton Goldman, Pete Hendricks, and Brett Berkman. Event coordinators organize volunteers, handle malfunctions and rulings, delegate
-responsibilities and authority, and otherwise work to ensure the smooth operation of the tournament.
+
 Event coordinators and designated officials may not participate in the tournament.
 All players, winning or not, grant PAPA, Replay FX LLC, Replay Foundation, and any and all other event
 sponsors and organizers, individual and collective, the right to use their names, scores, and likenesses for
@@ -426,16 +425,16 @@ player having the choice of play order. In case of a tie between the first and s
 group, both players advance and a tiebreaker is not required.
 No warm-up or practice time will be provided to any finalist on any machine.
 The #1-#4 seeds pass through to the quarterfinals, and the #5-16 seeds pass through to the second
-round. For the first round of finals the players will be split into 6 groups based on the following: 
-First Round, Group 1: #17 seed, #28 seed, #29 seed, #40 seed
-First Round, Group 2: #18 seed, #27 seed, #30 seed, #39 seed
-First Round, Group 3: #19 seed, #26 seed, #31 seed, #38 seed
-First Round, Group 4: #20 seed, #25 seed, #32 seed, #37 seed
-First Round, Group 5: #21 seed, #24 seed, #33 seed, #36 seed
-First Round, Group 6: #22 seed, #23 seed, #34 seed, #35 seed
+round. For the first round of finals the players will be assigned into 6 groups based on the following: 
+First Round, Group 1: #17 rank, #28 rank, #29 rank, #40 rank
+First Round, Group 2: #18 rank, #27 rank, #30 rank, #39 rank
+First Round, Group 3: #19 rank, #26 rank, #31 rank, #38 rank
+First Round, Group 4: #20 rank, #25 rank, #32 rank, #37 rank
+First Round, Group 5: #21 rank, #24 rank, #33 rank, #36 rank
+First Round, Group 6: #22 rank, #23 rank, #34 rank, #35 rank
 
 Two players from each group, for a total of twelve players, will advance to the second round to join the
-#5-#16 seeds. All 26 players will be re-ranked according to their qualifying seeding, and split into 6 groups based on the following:
+#5-#16 seeds. All 26 players will be re-ranked according to their qualifying seeding, and assigned into 6 groups based on the following:
 Second Round, Group 1: #5 rank, #16 rank, #17 rank, #28 rank
 Second Round, Group 2: #6 rank, #15 rank, #18 rank, #27 rank
 Second Round, Group 3: #7 rank, #14 rank, #19 rank, #26 rank
@@ -444,7 +443,7 @@ Second Round, Group 5: #9 rank, #12 rank, #21 rank, #24 rank
 Second Round, Group 6: #10 rank, #11 rank, #22 rank, #23 rank
 
 Two players from each group, for a total of twelve players, will advance to quarterfinal rounds to join the
-#1-#4 seeds. All 16 players are re-ranked according to their qualifying seeding, and split into 4 groups based on the following:
+#1-#4 seeds. All 16 players are re-ranked according to their qualifying seeding, and assigned into 4 groups based on the following:
 as shown here:
 Quarterfinals, Group 1: #1 rank, #8 rank, #9 rank, #16 rank
 Quarterfinals, Group 2: #2 rank, #7 rank, #10 rank, #17 rank
@@ -452,7 +451,7 @@ Quarterfinals, Group 3: #3 rank, #6 rank, #11 rank, #18 rank
 Quarterfinals, Group 4: #4 rank, #5 rank, #12 rank, #19 rank
 
 Two players from each group, for a total of eight players, will advance to semifinal rounds. All 8 players
-are re-ranked according to their qualifying seeding, and split into 2  groups as based on the following:
+are re-ranked according to their qualifying seeding, and assigned into 2  groups as based on the following:
 Semifinals, Group 1: #1 rank, #4 rank, #5 rank, #8 rank
 Semifinals, Group 2: #2 rank, #3 rank, #6 rank, #7 rank
 
