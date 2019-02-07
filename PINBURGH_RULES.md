@@ -392,11 +392,7 @@ bye. The top 4 players in each division will receive two byes (directly to the q
 each division wins the top qualifier prize.
 
 
-Ties for any seeded position, including the qualifying and bye cutoffs and the top qualifier, will be broken
-by the tied players’ cumulative win-loss records after Session 9, then cumulative win-loss records after
-Session 8, and previous sessions’ cumulative records as needed. In the unlikely event that players had the
-same win-loss record through all ten sessions, final position will be determined by the original seeding of the tournament. 
-No tiebreaking games will be held at the end of Session 10.
+Ties for any position, qualifying or not, will be broken by the tied players’ cumulative win-loss records after Session 9, then cumulative win-loss records after Session 8, and previous sessions’ cumulative records as needed. In the unlikely event that players had the same win-loss record through all ten sessions, final position will be determined by the original seeding of the tournament. No tiebreaking games will be held at the end of Session 10.
 
 
 ## V. DAY 3: FINAL ROUNDS
